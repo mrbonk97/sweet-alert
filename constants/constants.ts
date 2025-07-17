@@ -1,0 +1,86 @@
+export const COFFEE_BRANDS = [
+  {
+    rank: 1,
+    id: "starbucks",
+    title: "스타벅스",
+    icon: "/logos/starbucks.svg",
+  },
+  {
+    rank: 2,
+    id: "mega",
+    title: "메가커피",
+    icon: "/logos/mega-coffee.svg",
+  },
+  {
+    rank: 3,
+    id: "paiks",
+    title: "빽다방",
+    icon: "/logos/paiks.svg",
+  },
+  {
+    rank: 4,
+    id: "compose",
+    title: "컴포즈커피",
+    icon: "/logos/compose-coffee.svg",
+  },
+  {
+    rank: 5,
+    id: "twosome",
+    title: "투썸플레이스",
+    icon: "/logos/a-twosome-place.svg",
+  },
+  {
+    rank: 6,
+    id: "ediya",
+    title: "이디야 커피",
+    icon: "/logos/ediya-coffee.svg",
+  },
+  {
+    rank: 7,
+    id: "pascucci",
+    title: "파스쿠찌",
+    icon: "/logos/pascucci.svg",
+  },
+  {
+    rank: 8,
+    id: "coffeebean",
+    title: "커피빈",
+    icon: "/logos/coffee-bean.svg",
+  },
+  {
+    rank: 9,
+    id: "paulbasset",
+    title: "폴바셋",
+    icon: "/logos/paul-bassett.svg",
+  },
+  {
+    rank: 10,
+    id: "venti",
+    title: "더 벤티",
+    icon: "/logos/the-venti.svg",
+  },
+  {
+    rank: 11,
+    id: "hollys",
+    title: "할리스 커피",
+    icon: "/logos/hollys.svg",
+  },
+  {
+    rank: 12,
+    id: "angelinus",
+    title: "앤젤리너스",
+    icon: "/logos/angle-in-us.svg",
+  },
+  {
+    rank: 19,
+    id: "cafebene",
+    title: "카페베네",
+    icon: "/logos/cafe-bene.svg",
+  },
+  {
+    rank: 22,
+    id: "droptop",
+    title: "드롭탑",
+    icon: "/logos/drop-top.svg",
+  },
+];
