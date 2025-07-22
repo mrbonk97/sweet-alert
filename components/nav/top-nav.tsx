@@ -4,8 +4,8 @@ import { ModeToggle } from "@/components/nav/dark-mode-button";
 
 export function Topnav() {
   return (
-    <header className="z-50 fixed top-0 left-0 w-full bg-background border-b">
-      <div className="p-2 mx-auto max-w-7xl h-12 flex items-center justify-between ">
+    <header className="z-50 fixed top-0 left-0 w-full bg-background dark:bg-secondary border-b">
+      <div className="p-4 mx-auto max-w-7xl h-12 flex items-center justify-between ">
         <nav>
           <Link href="/" className={`${orbitFont.className} text-lg font-bold text-custom-g-1`}>
             단거주의보
