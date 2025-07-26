@@ -35,14 +35,23 @@ export const COFFEE_BRANDS = [
   },
   {
     rank: 3,
-    id: "paiks",
+    id: "paiks-coffee",
     title: "빽다방",
     titleEng: "PAIK’S COFFEE",
-    icon: "/logos/paiks.svg",
+    icon: "/logos/paiks-coffee.svg",
     categories: [
+      {
+        id: "coffee",
+        title: "커피",
+      },
       {
         id: "beverage",
         title: "음료",
+      },
+
+      {
+        id: "ccino",
+        title: "빽스치노",
       },
       {
         id: "dessert",
