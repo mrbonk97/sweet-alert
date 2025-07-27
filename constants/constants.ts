@@ -188,6 +188,14 @@ export const COFFEE_BRANDS = [
         id: "dessert",
         title: "디저트",
       },
+      {
+        id: "deli",
+        title: "델리",
+      },
+      {
+        id: "rte",
+        title: "RTE",
+      },
     ],
   },
   {
@@ -266,12 +274,28 @@ export const COFFEE_BRANDS = [
     icon: "/logos/hollys.svg",
     categories: [
       {
-        id: "beverage",
-        title: "음료",
+        id: "coffee",
+        title: "커피",
       },
       {
-        id: "dessert",
-        title: "디저트",
+        id: "beverage",
+        title: "라떼·초콜릿·티",
+      },
+      {
+        id: "ccino",
+        title: "할리치노·빙수",
+      },
+      {
+        id: "juice",
+        title: "스무디·주스",
+      },
+      {
+        id: "sparkling",
+        title: "스파클링",
+      },
+      {
+        id: "food",
+        title: "푸드",
       },
     ],
   },
