@@ -7,12 +7,44 @@ export const COFFEE_BRANDS = [
     icon: "/logos/starbucks.svg",
     categories: [
       {
-        id: "beverage",
-        title: "음료",
+        id: "cold-brew",
+        title: "콜드브루",
       },
       {
-        id: "dessert",
-        title: "디저트",
+        id: "brewed",
+        title: "브루드 커피",
+      },
+      {
+        id: "espresso",
+        title: "에스프레소",
+      },
+      {
+        id: "frappuccino",
+        title: "프라푸치노",
+      },
+      {
+        id: "blended",
+        title: "블렌디드",
+      },
+      {
+        id: "refresher",
+        title: "리프레셔",
+      },
+      {
+        id: "fizzio",
+        title: "피지오",
+      },
+      {
+        id: "tea",
+        title: "티(티바나)",
+      },
+      {
+        id: "etc",
+        title: "기타",
+      },
+      {
+        id: "juice",
+        title: "주스(병음료)",
       },
     ],
   },
@@ -109,15 +141,35 @@ export const COFFEE_BRANDS = [
     id: "twosome",
     title: "투썸플레이스",
     titleEng: "A TWOSOME PLACE",
-    icon: "/logos/a-twosome-place.svg",
+    icon: "/logos/twosome.svg",
     categories: [
+      {
+        id: "coffee",
+        title: "커피",
+      },
       {
         id: "beverage",
         title: "음료",
       },
       {
+        id: "tea",
+        title: "티/티라떼",
+      },
+      {
+        id: "icecream",
+        title: "아이스크림/빙수",
+      },
+      {
+        id: "whole-cake",
+        title: "홀케이크",
+      },
+      {
         id: "dessert",
         title: "디저트",
+      },
+      {
+        id: "food",
+        title: "푸드",
       },
     ],
   },
