@@ -351,3 +351,20 @@ export const COFFEE_BRANDS = [
     ],
   },
 ];
+
+export const COFFEE_CODE = {
+  starbucks: "스타벅스",
+  "mega-coffee": "메가커피",
+  "paiks-coffee": "빽다방",
+  "compose-coffee": "컴포즈커피",
+  twosome: "투썸플레이스",
+  ediya: "이디야 커피",
+  pascucci: "파스쿠찌",
+  "coffee-bean": "커피빈",
+  "paul-basset": "폴바셋",
+  "the-venti": "더 벤티",
+  hollys: "할리스 커피",
+  angelinus: "엔젤리너스",
+  cafebene: "카페베네",
+  droptop: "카페 드롭탑",
+};
