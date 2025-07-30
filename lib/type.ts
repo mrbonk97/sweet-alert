@@ -15,6 +15,7 @@ export type CafeType = {
 export type MenuType = {
   id: string;
   brand: string;
+  brandKR: string;
   format: string;
   category: string[];
   title: string;

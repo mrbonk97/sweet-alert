@@ -2,6 +2,7 @@
   {
     "id": "paiks-coffee-0001",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "더블에스프레소",
@@ -20,6 +21,7 @@
   {
     "id": "paiks-coffee-0002",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아메리카노(HOT)",
@@ -38,6 +40,7 @@
   {
     "id": "paiks-coffee-0003",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아메리카노(ICED)",
@@ -56,6 +59,7 @@
   {
     "id": "paiks-coffee-0004",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "레드불 꿀샷추(ICED)",
@@ -74,6 +78,7 @@
   {
     "id": "paiks-coffee-0005",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "원조커피(HOT)",
@@ -92,6 +97,7 @@
   {
     "id": "paiks-coffee-0006",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "원조커피(ICED)",
@@ -110,6 +116,7 @@
   {
     "id": "paiks-coffee-0007",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "원조커피 제로슈거(HOT)",
@@ -128,6 +135,7 @@
   {
     "id": "paiks-coffee-0008",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "원조커피 제로슈거(ICED)",
@@ -146,6 +154,7 @@
   {
     "id": "paiks-coffee-0009",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아이스티샷추가(아샷추)",
@@ -164,6 +173,7 @@
   {
     "id": "paiks-coffee-0010",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아샷망추 (아샷추 + 망고추가)",
@@ -182,6 +192,7 @@
   {
     "id": "paiks-coffee-0011",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "꿀아메리카노(HOT)",
@@ -200,6 +211,7 @@
   {
     "id": "paiks-coffee-0012",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "꿀아메리카노(ICED)",
@@ -218,6 +230,7 @@
   {
     "id": "paiks-coffee-0013",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "헤이즐넛아메리카노 (HOT)",
@@ -236,6 +249,7 @@
   {
     "id": "paiks-coffee-0014",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "헤이즐넛아메리카노 (ICED)",
@@ -254,6 +268,7 @@
   {
     "id": "paiks-coffee-0015",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "헤이즐넛라떼(HOT)",
@@ -272,6 +287,7 @@
   {
     "id": "paiks-coffee-0016",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["coffee"],
     "title": "헤이즐넛라떼(ICED)",
@@ -290,6 +306,7 @@
   {
     "id": "paiks-coffee-0017",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "달달연유라떼(HOT)",
@@ -308,6 +325,7 @@
   {
     "id": "paiks-coffee-0018",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "달달연유라떼(ICED)",
@@ -326,6 +344,7 @@
   {
     "id": "paiks-coffee-0019",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카페라떼(HOT)",
@@ -344,6 +363,7 @@
   {
     "id": "paiks-coffee-0020",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카페라떼(ICED)",
@@ -362,6 +382,7 @@
   {
     "id": "paiks-coffee-0021",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "블랙펄카페라떼(ICED)",
@@ -380,6 +401,7 @@
   {
     "id": "paiks-coffee-0022",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "바닐라라떼(HOT)",
@@ -398,6 +420,7 @@
   {
     "id": "paiks-coffee-0023",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "바닐라라떼(ICED)",
@@ -416,6 +439,7 @@
   {
     "id": "paiks-coffee-0024",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카페모카(HOT)",
@@ -434,6 +458,7 @@
   {
     "id": "paiks-coffee-0025",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카페모카(ICED)",
@@ -452,6 +477,7 @@
   {
     "id": "paiks-coffee-0026",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카라멜마키아또(HOT)",
@@ -470,6 +496,7 @@
   {
     "id": "paiks-coffee-0027",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "카라멜마키아또(ICED)",
@@ -488,6 +515,7 @@
   {
     "id": "paiks-coffee-0028",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "바나나 카페라떼(HOT)",
@@ -506,6 +534,7 @@
   {
     "id": "paiks-coffee-0029",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "바나나 카페라떼(ICED)",
@@ -524,6 +553,7 @@
   {
     "id": "paiks-coffee-0030",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "바나나 커피쉐이크",
@@ -542,6 +572,7 @@
   {
     "id": "paiks-coffee-0031",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아이스크림카페라떼(ICED)",
@@ -560,6 +591,7 @@
   {
     "id": "paiks-coffee-0032",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아이스크림바닐라라떼(ICED)",
@@ -578,6 +610,7 @@
   {
     "id": "paiks-coffee-0033",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "아이스크림카페모카(ICED)",
@@ -596,6 +629,7 @@
   {
     "id": "paiks-coffee-0034",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루(ICED)",
@@ -614,6 +648,7 @@
   {
     "id": "paiks-coffee-0035",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루(HOT)",
@@ -632,6 +667,7 @@
   {
     "id": "paiks-coffee-0036",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루(ICED)",
@@ -650,6 +686,7 @@
   {
     "id": "paiks-coffee-0037",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루(HOT)",
@@ -668,6 +705,7 @@
   {
     "id": "paiks-coffee-0038",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(ICED)",
@@ -686,6 +724,7 @@
   {
     "id": "paiks-coffee-0039",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(HOT)",
@@ -704,6 +743,7 @@
   {
     "id": "paiks-coffee-0040",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(ICED)",
@@ -722,6 +762,7 @@
   {
     "id": "paiks-coffee-0041",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(HOT)",
@@ -740,6 +781,7 @@
   {
     "id": "paiks-coffee-0042",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(연유)(ICED)",
@@ -758,6 +800,7 @@
   {
     "id": "paiks-coffee-0043",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(연유)(HOT)",
@@ -776,6 +819,7 @@
   {
     "id": "paiks-coffee-0044",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(연유)(ICED)",
@@ -794,6 +838,7 @@
   {
     "id": "paiks-coffee-0045",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(연유)(HOT)",
@@ -812,6 +857,7 @@
   {
     "id": "paiks-coffee-0046",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(흑당)(ICED)",
@@ -830,6 +876,7 @@
   {
     "id": "paiks-coffee-0047",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루라떼(흑당)(HOT)",
@@ -848,6 +895,7 @@
   {
     "id": "paiks-coffee-0048",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(흑당)(ICED)",
@@ -866,6 +914,7 @@
   {
     "id": "paiks-coffee-0049",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루라떼(흑당)(HOT)",
@@ -884,6 +933,7 @@
   {
     "id": "paiks-coffee-0050",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루 오리지널 커피원액",
@@ -902,6 +952,7 @@
   {
     "id": "paiks-coffee-0051",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루 디카페인 커피원액",
@@ -920,6 +971,7 @@
   {
     "id": "paiks-coffee-0052",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 아메리카노(ICED)",
@@ -938,6 +990,7 @@
   {
     "id": "paiks-coffee-0053",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 원조커피(ICED)",
@@ -956,6 +1009,7 @@
   {
     "id": "paiks-coffee-0054",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 원조커피 제로슈거(ICED)",
@@ -974,6 +1028,7 @@
   {
     "id": "paiks-coffee-0055",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 카페라떼(ICED)",
@@ -992,6 +1047,7 @@
   {
     "id": "paiks-coffee-0056",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 아이스티샷추가(ICED)",
@@ -1010,6 +1066,7 @@
   {
     "id": "paiks-coffee-0057",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["coffee"],
     "title": "빽사이즈 아샷망추",
@@ -1028,6 +1085,7 @@
   {
     "id": "paiks-coffee-0058",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "추억의 오렌지주스(ICED)",
@@ -1046,6 +1104,7 @@
   {
     "id": "paiks-coffee-0059",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "추억의 오렌지슬러시(ICED)",
@@ -1064,6 +1123,7 @@
   {
     "id": "paiks-coffee-0060",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "추억의 오렌지에이드(ICED)",
@@ -1082,6 +1142,7 @@
   {
     "id": "paiks-coffee-0061",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "단팥 밀크쉐이크(ICED)",
@@ -1100,6 +1161,7 @@
   {
     "id": "paiks-coffee-0062",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "단팥 딸기쉐이크(ICED)",
@@ -1118,6 +1180,7 @@
   {
     "id": "paiks-coffee-0063",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "수박우롱차(ICED)",
@@ -1136,6 +1199,7 @@
   {
     "id": "paiks-coffee-0064",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레드불 에이드(ICED)",
@@ -1154,6 +1218,7 @@
   {
     "id": "paiks-coffee-0065",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "멜론라떼(ICED)",
@@ -1172,6 +1237,7 @@
   {
     "id": "paiks-coffee-0066",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "멜론쉐이크(ICED)",
@@ -1190,6 +1256,7 @@
   {
     "id": "paiks-coffee-0067",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "바나나 멜론쉐이크 (ICED)",
@@ -1208,6 +1275,7 @@
   {
     "id": "paiks-coffee-0068",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기복숭아 화채스무디(ICED)",
@@ -1226,6 +1294,7 @@
   {
     "id": "paiks-coffee-0069",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "요구르트밀크화채 (ICED)",
@@ -1244,6 +1313,7 @@
   {
     "id": "paiks-coffee-0070",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "청사과요거트스무디 (ICED)",
@@ -1262,6 +1332,7 @@
   {
     "id": "paiks-coffee-0071",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "요구르트스무디 (ICED)",
@@ -1280,6 +1351,7 @@
   {
     "id": "paiks-coffee-0072",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "청사과스무디 (ICED)",
@@ -1298,6 +1370,7 @@
   {
     "id": "paiks-coffee-0073",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "달콤아이스티",
@@ -1316,6 +1389,7 @@
   {
     "id": "paiks-coffee-0074",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "아망추 (아이스티 + 망고추가)",
@@ -1334,6 +1408,7 @@
   {
     "id": "paiks-coffee-0075",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우리수박주스(ICED)",
@@ -1352,6 +1427,7 @@
   {
     "id": "paiks-coffee-0076",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "망고스무디(ICED)",
@@ -1370,6 +1446,7 @@
   {
     "id": "paiks-coffee-0077",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "파인애플스무디(ICED)",
@@ -1388,6 +1465,7 @@
   {
     "id": "paiks-coffee-0078",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "체리주스(ICED)",
@@ -1406,6 +1484,7 @@
   {
     "id": "paiks-coffee-0079",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "제주한라봉에이드(ICED)",
@@ -1424,6 +1503,7 @@
   {
     "id": "paiks-coffee-0080",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "제주한라봉요거트스무디",
@@ -1442,6 +1522,7 @@
   {
     "id": "paiks-coffee-0081",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "제주한라봉티(HOT)",
@@ -1460,6 +1541,7 @@
   {
     "id": "paiks-coffee-0082",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "제주한라봉티(ICED)",
@@ -1478,6 +1560,7 @@
   {
     "id": "paiks-coffee-0083",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "패션후르츠스무디 (ICED)",
@@ -1496,6 +1579,7 @@
   {
     "id": "paiks-coffee-0084",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "망고패션스무디 (ICED)",
@@ -1514,6 +1598,7 @@
   {
     "id": "paiks-coffee-0085",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "성주참외스무디",
@@ -1532,6 +1617,7 @@
   {
     "id": "paiks-coffee-0086",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "솜사탕 딸기 밀크쉐이크",
@@ -1550,6 +1636,7 @@
   {
     "id": "paiks-coffee-0087",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "푸딩멜론쉐이크",
@@ -1568,6 +1655,7 @@
   {
     "id": "paiks-coffee-0088",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "푸딩밀크쉐이크",
@@ -1586,6 +1674,7 @@
   {
     "id": "paiks-coffee-0089",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "뱅쇼(HOT)",
@@ -1604,6 +1693,7 @@
   {
     "id": "paiks-coffee-0090",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "뱅쇼(ICED)",
@@ -1622,6 +1712,7 @@
   {
     "id": "paiks-coffee-0091",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우리쌀라떼(HOT)",
@@ -1640,6 +1731,7 @@
   {
     "id": "paiks-coffee-0092",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우리쌀라떼(ICED)",
@@ -1658,6 +1750,7 @@
   {
     "id": "paiks-coffee-0093",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우리쌀쉐이크",
@@ -1676,6 +1769,7 @@
   {
     "id": "paiks-coffee-0094",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "대추차(HOT)",
@@ -1694,6 +1788,7 @@
   {
     "id": "paiks-coffee-0095",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "대추차(ICED)",
@@ -1712,6 +1807,7 @@
   {
     "id": "paiks-coffee-0096",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "쌍화차(HOT)",
@@ -1730,6 +1826,7 @@
   {
     "id": "paiks-coffee-0097",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["beverage"],
     "title": "쌍화차(ICED)",
@@ -1748,6 +1845,7 @@
   {
     "id": "paiks-coffee-0098",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "대추라떼(HOT)",
@@ -1766,6 +1864,7 @@
   {
     "id": "paiks-coffee-0099",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "대추라떼(ICED)",
@@ -1784,6 +1883,7 @@
   {
     "id": "paiks-coffee-0100",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "쌍화라떼(HOT)",
@@ -1802,6 +1902,7 @@
   {
     "id": "paiks-coffee-0101",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "쌍화라떼(ICED)",
@@ -1820,6 +1921,7 @@
   {
     "id": "paiks-coffee-0102",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "구아바 크림 주스",
@@ -1838,6 +1940,7 @@
   {
     "id": "paiks-coffee-0103",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "포멜로 크림 주스",
@@ -1856,6 +1959,7 @@
   {
     "id": "paiks-coffee-0104",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레몬 구아바 크러시",
@@ -1874,6 +1978,7 @@
   {
     "id": "paiks-coffee-0105",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "자몽 포멜로 크러시",
@@ -1892,6 +1997,7 @@
   {
     "id": "paiks-coffee-0106",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "아임파인민트티(HOT)",
@@ -1910,6 +2016,7 @@
   {
     "id": "paiks-coffee-0107",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "아임파인민트티(ICED)",
@@ -1928,6 +2035,7 @@
   {
     "id": "paiks-coffee-0108",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "트로피칼후르츠티(HOT)",
@@ -1946,6 +2054,7 @@
   {
     "id": "paiks-coffee-0109",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "트로피칼후르츠티(ICED)",
@@ -1964,6 +2073,7 @@
   {
     "id": "paiks-coffee-0110",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "멜론소다",
@@ -1982,6 +2092,7 @@
   {
     "id": "paiks-coffee-0111",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "쿨라임스무디",
@@ -2000,6 +2111,7 @@
   {
     "id": "paiks-coffee-0112",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "쿨라임에이드",
@@ -2018,6 +2130,7 @@
   {
     "id": "paiks-coffee-0113",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "트로피칼팝핑스무디(ICED)",
@@ -2036,6 +2149,7 @@
   {
     "id": "paiks-coffee-0114",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "수정과(HOT)",
@@ -2054,6 +2168,7 @@
   {
     "id": "paiks-coffee-0115",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "수정과(ICED)",
@@ -2072,6 +2187,7 @@
   {
     "id": "paiks-coffee-0116",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "식혜(ICED)",
@@ -2090,6 +2206,7 @@
   {
     "id": "paiks-coffee-0117",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "고구마라떼(HOT)",
@@ -2108,6 +2225,7 @@
   {
     "id": "paiks-coffee-0118",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "고구마라떼(ICED)",
@@ -2126,6 +2244,7 @@
   {
     "id": "paiks-coffee-0119",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "꿀밤라떼(HOT)",
@@ -2144,6 +2263,7 @@
   {
     "id": "paiks-coffee-0120",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "꿀밤라떼(ICED)",
@@ -2162,6 +2282,7 @@
   {
     "id": "paiks-coffee-0121",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "고구마스무디",
@@ -2180,6 +2301,7 @@
   {
     "id": "paiks-coffee-0122",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "바나나 라떼(HOT)",
@@ -2198,6 +2320,7 @@
   {
     "id": "paiks-coffee-0123",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "바나나 라떼(ICED)",
@@ -2216,6 +2339,7 @@
   {
     "id": "paiks-coffee-0124",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "바나나 밀크쉐이크",
@@ -2234,6 +2358,7 @@
   {
     "id": "paiks-coffee-0125",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "아이스크러시 멜론",
@@ -2252,6 +2377,7 @@
   {
     "id": "paiks-coffee-0126",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "퐁당치노(바닐라)",
@@ -2270,6 +2396,7 @@
   {
     "id": "paiks-coffee-0127",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "퐁당치노(원조커피)",
@@ -2288,6 +2415,7 @@
   {
     "id": "paiks-coffee-0128",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "퐁당치노(미숫가루)",
@@ -2306,6 +2434,7 @@
   {
     "id": "paiks-coffee-0129",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "초코라떼(HOT)",
@@ -2324,6 +2453,7 @@
   {
     "id": "paiks-coffee-0130",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "초코라떼(ICED)",
@@ -2342,6 +2472,7 @@
   {
     "id": "paiks-coffee-0131",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "녹차라떼(HOT)",
@@ -2360,6 +2491,7 @@
   {
     "id": "paiks-coffee-0132",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "녹차라떼(ICED)",
@@ -2378,6 +2510,7 @@
   {
     "id": "paiks-coffee-0133",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "민트초코라떼(HOT)",
@@ -2396,6 +2529,7 @@
   {
     "id": "paiks-coffee-0134",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "민트초코라떼(ICED)",
@@ -2414,6 +2548,7 @@
   {
     "id": "paiks-coffee-0135",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "토피넛라떼(HOT)",
@@ -2432,6 +2567,7 @@
   {
     "id": "paiks-coffee-0136",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "토피넛라떼(ICED)",
@@ -2450,6 +2586,7 @@
   {
     "id": "paiks-coffee-0137",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "블랙펄라떼(ICED)",
@@ -2468,6 +2605,7 @@
   {
     "id": "paiks-coffee-0138",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "미숫가루",
@@ -2486,6 +2624,7 @@
   {
     "id": "paiks-coffee-0139",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "체리콕콕(ICED)",
@@ -2504,6 +2643,7 @@
   {
     "id": "paiks-coffee-0140",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "밀크티(HOT)",
@@ -2522,6 +2662,7 @@
   {
     "id": "paiks-coffee-0141",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "밀크티(ICED)",
@@ -2540,6 +2681,7 @@
   {
     "id": "paiks-coffee-0142",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "블랙펄밀크티(ICED)",
@@ -2558,6 +2700,7 @@
   {
     "id": "paiks-coffee-0143",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "페퍼민트티(HOT)",
@@ -2576,6 +2719,7 @@
   {
     "id": "paiks-coffee-0144",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "페퍼민트티(ICED)",
@@ -2594,6 +2738,7 @@
   {
     "id": "paiks-coffee-0145",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "황금캐모마일티(HOT)",
@@ -2612,6 +2757,7 @@
   {
     "id": "paiks-coffee-0146",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "황금캐모마일티(ICED)",
@@ -2630,6 +2776,7 @@
   {
     "id": "paiks-coffee-0147",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "깔라만시티(HOT)",
@@ -2648,6 +2795,7 @@
   {
     "id": "paiks-coffee-0148",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "깔라만시티(ICED)",
@@ -2666,6 +2814,7 @@
   {
     "id": "paiks-coffee-0149",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레몬티(HOT)",
@@ -2684,6 +2833,7 @@
   {
     "id": "paiks-coffee-0150",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레몬티(ICED)",
@@ -2702,6 +2852,7 @@
   {
     "id": "paiks-coffee-0151",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "피치우롱스위티(HOT)",
@@ -2720,6 +2871,7 @@
   {
     "id": "paiks-coffee-0152",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "피치우롱스위티(ICED)",
@@ -2738,6 +2890,7 @@
   {
     "id": "paiks-coffee-0153",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우롱티(HOT)",
@@ -2756,6 +2909,7 @@
   {
     "id": "paiks-coffee-0154",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "우롱티(ICED)",
@@ -2774,6 +2928,7 @@
   {
     "id": "paiks-coffee-0155",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레몬얼그레이티(HOT)",
@@ -2792,6 +2947,7 @@
   {
     "id": "paiks-coffee-0156",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레몬얼그레이티(ICED)",
@@ -2810,6 +2966,7 @@
   {
     "id": "paiks-coffee-0157",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "오렌지자몽블랙티(HOT)",
@@ -2828,6 +2985,7 @@
   {
     "id": "paiks-coffee-0158",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "오렌지자몽블랙티(ICED)",
@@ -2846,6 +3004,7 @@
   {
     "id": "paiks-coffee-0159",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "유자티(HOT)",
@@ -2864,6 +3023,7 @@
   {
     "id": "paiks-coffee-0160",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "유자티(ICED)",
@@ -2882,6 +3042,7 @@
   {
     "id": "paiks-coffee-0161",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "자몽티(HOT)",
@@ -2900,6 +3061,7 @@
   {
     "id": "paiks-coffee-0162",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "자몽티(ICED)",
@@ -2918,6 +3080,7 @@
   {
     "id": "paiks-coffee-0163",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "청포도플라워(ICED)",
@@ -2936,6 +3099,7 @@
   {
     "id": "paiks-coffee-0164",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "아이스미초(ICED)",
@@ -2954,6 +3118,7 @@
   {
     "id": "paiks-coffee-0165",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기에이드(ICED)",
@@ -2972,6 +3137,7 @@
   {
     "id": "paiks-coffee-0166",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "레모네이드(ICED)",
@@ -2990,6 +3156,7 @@
   {
     "id": "paiks-coffee-0167",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "청포도에이드(ICED)",
@@ -3008,6 +3175,7 @@
   {
     "id": "paiks-coffee-0168",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "깔라만시에이드(ICED)",
@@ -3026,6 +3194,7 @@
   {
     "id": "paiks-coffee-0169",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "유자에이드(ICED)",
@@ -3044,6 +3213,7 @@
   {
     "id": "paiks-coffee-0170",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "자몽에이드(ICED)",
@@ -3062,6 +3232,7 @@
   {
     "id": "paiks-coffee-0171",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "복숭아에이드(ICED)",
@@ -3080,6 +3251,7 @@
   {
     "id": "paiks-coffee-0172",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "미초(석류)에이드(ICED)",
@@ -3098,6 +3270,7 @@
   {
     "id": "paiks-coffee-0173",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "완전파인애플주스",
@@ -3116,6 +3289,7 @@
   {
     "id": "paiks-coffee-0174",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "완전딸기주스(ICED)",
@@ -3134,6 +3308,7 @@
   {
     "id": "paiks-coffee-0175",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "완전망고주스(ICED)",
@@ -3152,6 +3327,7 @@
   {
     "id": "paiks-coffee-0176",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "완전블루베리주스(ICED)",
@@ -3170,6 +3346,7 @@
   {
     "id": "paiks-coffee-0177",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "블루베리요거트스무디(ICED)",
@@ -3188,6 +3365,7 @@
   {
     "id": "paiks-coffee-0178",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "밀크쉐이크(ICED)",
@@ -3206,6 +3384,7 @@
   {
     "id": "paiks-coffee-0179",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "플레인요거트스무디(ICED)",
@@ -3224,6 +3403,7 @@
   {
     "id": "paiks-coffee-0180",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기요거트스무디(ICED)",
@@ -3242,6 +3422,7 @@
   {
     "id": "paiks-coffee-0181",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "빽사이즈 초코라떼(ICED)",
@@ -3260,6 +3441,7 @@
   {
     "id": "paiks-coffee-0182",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "빽사이즈 달콤아이스티(ICED)",
@@ -3278,6 +3460,7 @@
   {
     "id": "paiks-coffee-0183",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "빽사이즈 아망추",
@@ -3296,6 +3479,7 @@
   {
     "id": "paiks-coffee-0184",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기라떼(ICED)",
@@ -3314,6 +3498,7 @@
   {
     "id": "paiks-coffee-0185",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "원조빽스치노(BASIC)",
@@ -3332,6 +3517,7 @@
   {
     "id": "paiks-coffee-0186",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "원조빽스치노(SOFT)",
@@ -3350,6 +3536,7 @@
   {
     "id": "paiks-coffee-0187",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "딸기바나나빽스치노(BASIC)",
@@ -3368,6 +3555,7 @@
   {
     "id": "paiks-coffee-0188",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "딸기바나나빽스치노(SOFT)",
@@ -3386,6 +3574,7 @@
   {
     "id": "paiks-coffee-0189",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "초코바나나빽스치노(BASIC)",
@@ -3404,6 +3593,7 @@
   {
     "id": "paiks-coffee-0190",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "초코바나나빽스치노(SOFT)",
@@ -3422,6 +3612,7 @@
   {
     "id": "paiks-coffee-0191",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "딸기 빽스치노(BASIC)",
@@ -3440,6 +3631,7 @@
   {
     "id": "paiks-coffee-0192",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "딸기 빽스치노(SOFT)",
@@ -3458,6 +3650,7 @@
   {
     "id": "paiks-coffee-0193",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "녹차빽스치노(BASIC)",
@@ -3476,6 +3669,7 @@
   {
     "id": "paiks-coffee-0194",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "녹차빽스치노(SOFT)",
@@ -3494,6 +3688,7 @@
   {
     "id": "paiks-coffee-0195",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "민트초코빽스치노(BASIC)",
@@ -3512,6 +3707,7 @@
   {
     "id": "paiks-coffee-0196",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "민트초코빽스치노(SOFT)",
@@ -3530,6 +3726,7 @@
   {
     "id": "paiks-coffee-0197",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "쿠키크런치빽스치노(BASIC)",
@@ -3548,6 +3745,7 @@
   {
     "id": "paiks-coffee-0198",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "쿠키크런치빽스치노(SOFT)",
@@ -3566,6 +3764,7 @@
   {
     "id": "paiks-coffee-0199",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "초코빽스치노(BASIC)",
@@ -3584,6 +3783,7 @@
   {
     "id": "paiks-coffee-0200",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "초코빽스치노(SOFT)",
@@ -3602,6 +3802,7 @@
   {
     "id": "paiks-coffee-0201",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "피스타치오빽스치노(BASIC)",
@@ -3620,6 +3821,7 @@
   {
     "id": "paiks-coffee-0202",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["ccino"],
     "title": "피스타치오빽스치노(SOFT)",
@@ -3638,6 +3840,7 @@
   {
     "id": "paiks-coffee-0203",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "소프트 아이스크림",
@@ -3656,6 +3859,7 @@
   {
     "id": "paiks-coffee-0204",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "단팥 소프트 아이스크림",
@@ -3674,6 +3878,7 @@
   {
     "id": "paiks-coffee-0205",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "요거트 아이스크림",
@@ -3692,6 +3897,7 @@
   {
     "id": "paiks-coffee-0206",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "롱롱 피낭시에 커피쿠키맛",
@@ -3710,6 +3916,7 @@
   {
     "id": "paiks-coffee-0207",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "롱롱 피낭시에 클래식",
@@ -3728,6 +3935,7 @@
   {
     "id": "paiks-coffee-0208",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "햄치즈 샌드위치",
@@ -3746,6 +3954,7 @@
   {
     "id": "paiks-coffee-0209",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "달콤밤페스츄리",
@@ -3764,6 +3973,7 @@
   {
     "id": "paiks-coffee-0210",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "jpg",
     "category": ["dessert"],
     "title": "멜론 탐험빵",
@@ -3782,6 +3992,7 @@
   {
     "id": "paiks-coffee-0211",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "쫀득 감자빵",
@@ -3800,6 +4011,7 @@
   {
     "id": "paiks-coffee-0212",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "쫀득 고구마빵",
@@ -3818,6 +4030,7 @@
   {
     "id": "paiks-coffee-0213",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "고메버터소금빵",
@@ -3836,6 +4049,7 @@
   {
     "id": "paiks-coffee-0214",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "크리미슈",
@@ -3854,6 +4068,7 @@
   {
     "id": "paiks-coffee-0215",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "크리미단팥빵",
@@ -3872,6 +4087,7 @@
   {
     "id": "paiks-coffee-0216",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "사라다빵",
@@ -3890,6 +4106,7 @@
   {
     "id": "paiks-coffee-0217",
     "brand": "paiks-coffee",
+    "brandKR": "빽다방",
     "format": "png",
     "category": ["dessert"],
     "title": "소세지빵",

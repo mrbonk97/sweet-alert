@@ -2,6 +2,7 @@
   {
     "id": "twosome-0001",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "애플 아샷추",
@@ -20,6 +21,7 @@
   {
     "id": "twosome-0002",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "민트 아샷추",
@@ -38,6 +40,7 @@
   {
     "id": "twosome-0003",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "피치 아샷추",
@@ -56,6 +59,7 @@
   {
     "id": "twosome-0004",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "바닐라빈 콜드브루 라떼",
@@ -74,6 +78,7 @@
   {
     "id": "twosome-0005",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "바나나 샷 아메리카노",
@@ -92,6 +97,7 @@
   {
     "id": "twosome-0006",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "바나나 샷 라떼",
@@ -110,6 +116,7 @@
   {
     "id": "twosome-0007",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "아메리카노",
@@ -128,6 +135,7 @@
   {
     "id": "twosome-0008",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "카페 라떼",
@@ -146,6 +154,7 @@
   {
     "id": "twosome-0009",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "카푸치노",
@@ -164,6 +173,7 @@
   {
     "id": "twosome-0010",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "바닐라 라떼",
@@ -182,6 +192,7 @@
   {
     "id": "twosome-0011",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "스페니쉬 연유 라떼",
@@ -200,6 +211,7 @@
   {
     "id": "twosome-0012",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "카페 모카",
@@ -218,6 +230,7 @@
   {
     "id": "twosome-0013",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "카라멜 마키아또",
@@ -236,6 +249,7 @@
   {
     "id": "twosome-0014",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "롱 블랙",
@@ -254,6 +268,7 @@
   {
     "id": "twosome-0015",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "숏 라떼",
@@ -272,6 +287,7 @@
   {
     "id": "twosome-0016",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 오틀리 콜드브루",
@@ -290,6 +306,7 @@
   {
     "id": "twosome-0017",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "디카페인 콜드브루",
@@ -308,6 +325,7 @@
   {
     "id": "twosome-0018",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루",
@@ -326,6 +344,7 @@
   {
     "id": "twosome-0019",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "콜드브루 라떼",
@@ -344,6 +363,7 @@
   {
     "id": "twosome-0020",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "피넛 헤이즐넛 라떼",
@@ -362,6 +382,7 @@
   {
     "id": "twosome-0021",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "아인슈페너 2023",
@@ -380,6 +401,7 @@
   {
     "id": "twosome-0022",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "달고나 라떼",
@@ -398,6 +420,7 @@
   {
     "id": "twosome-0023",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "오트 화이트 라떼",
@@ -416,6 +439,7 @@
   {
     "id": "twosome-0024",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["coffee"],
     "title": "에스프레소",
@@ -434,6 +458,7 @@
   {
     "id": "twosome-0025",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "제주 한라봉 주스",
@@ -452,6 +477,7 @@
   {
     "id": "twosome-0026",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "수박 주스",
@@ -470,6 +496,7 @@
   {
     "id": "twosome-0027",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "우리 수박 화채",
@@ -488,6 +515,7 @@
   {
     "id": "twosome-0028",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "복숭아 주스",
@@ -506,6 +534,7 @@
   {
     "id": "twosome-0029",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "미키 망고 요거트 프라페",
@@ -524,6 +553,7 @@
   {
     "id": "twosome-0030",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "우리 대추 수정과",
@@ -542,6 +572,7 @@
   {
     "id": "twosome-0031",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "우리 쌀 식혜(ICED ONLY)",
@@ -560,6 +591,7 @@
   {
     "id": "twosome-0032",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "미숫가루 라떼(ICED ONLY)",
@@ -578,6 +610,7 @@
   {
     "id": "twosome-0033",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기 요거트 라떼",
@@ -596,6 +629,7 @@
   {
     "id": "twosome-0034",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "딸기 연유 라떼",
@@ -614,6 +648,7 @@
   {
     "id": "twosome-0035",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "고구마 라떼",
@@ -632,6 +667,7 @@
   {
     "id": "twosome-0036",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "초콜릿 라떼",
@@ -650,6 +686,7 @@
   {
     "id": "twosome-0037",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "애플망고 주스",
@@ -668,6 +705,7 @@
   {
     "id": "twosome-0038",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "키위 바나나 주스",
@@ -686,6 +724,7 @@
   {
     "id": "twosome-0039",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "오렌지 자몽 주스",
@@ -704,6 +743,7 @@
   {
     "id": "twosome-0040",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "밀크티 쉐이크",
@@ -722,6 +762,7 @@
   {
     "id": "twosome-0041",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "쿠키 쉐이크",
@@ -740,6 +781,7 @@
   {
     "id": "twosome-0042",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "바닐라 밀크 쉐이크",
@@ -758,6 +800,7 @@
   {
     "id": "twosome-0043",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "커피 쿠키 프라페",
@@ -776,6 +819,7 @@
   {
     "id": "twosome-0044",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "애플망고 피치 프라페",
@@ -794,6 +838,7 @@
   {
     "id": "twosome-0045",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "민트 초코프라페",
@@ -812,6 +857,7 @@
   {
     "id": "twosome-0046",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "요거트프라페",
@@ -830,6 +876,7 @@
   {
     "id": "twosome-0047",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "스트로베리 피치프라페",
@@ -848,6 +895,7 @@
   {
     "id": "twosome-0048",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "샤인머스캣 청포도에이드",
@@ -866,6 +914,7 @@
   {
     "id": "twosome-0049",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "복숭아에이드",
@@ -884,6 +933,7 @@
   {
     "id": "twosome-0050",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "오렌지에이드",
@@ -902,6 +952,7 @@
   {
     "id": "twosome-0051",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "자몽에이드",
@@ -920,6 +971,7 @@
   {
     "id": "twosome-0052",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "허니 레몬 에이드",
@@ -938,6 +990,7 @@
   {
     "id": "twosome-0053",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["beverage"],
     "title": "블루베리 요거트 드링크",
@@ -956,6 +1009,7 @@
   {
     "id": "twosome-0054",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "아이스 말차",
@@ -974,6 +1028,7 @@
   {
     "id": "twosome-0055",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "말차 크림 라떼",
@@ -992,6 +1047,7 @@
   {
     "id": "twosome-0056",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "스트로베리 말차 라떼",
@@ -1010,6 +1066,7 @@
   {
     "id": "twosome-0057",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "말차(HOT)",
@@ -1028,6 +1085,7 @@
   {
     "id": "twosome-0058",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "피치 아이스티",
@@ -1046,6 +1104,7 @@
   {
     "id": "twosome-0059",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "민트 아이스티",
@@ -1064,6 +1123,7 @@
   {
     "id": "twosome-0060",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "애플 아이스티",
@@ -1082,6 +1142,7 @@
   {
     "id": "twosome-0061",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "유자 생강차",
@@ -1100,6 +1161,7 @@
   {
     "id": "twosome-0062",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "피치 블랙티",
@@ -1118,6 +1180,7 @@
   {
     "id": "twosome-0063",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "오렌지 자몽티",
@@ -1136,6 +1199,7 @@
   {
     "id": "twosome-0064",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "유자 레몬티",
@@ -1154,6 +1218,7 @@
   {
     "id": "twosome-0065",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "허니 레몬티",
@@ -1172,6 +1237,7 @@
   {
     "id": "twosome-0066",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "애플 민트티",
@@ -1190,6 +1256,7 @@
   {
     "id": "twosome-0067",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "ice버블 그린티 라떼",
@@ -1208,6 +1275,7 @@
   {
     "id": "twosome-0068",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "그린티 라떼",
@@ -1226,6 +1294,7 @@
   {
     "id": "twosome-0069",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "로얄 밀크티",
@@ -1244,6 +1313,7 @@
   {
     "id": "twosome-0070",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "제주 유기농 녹차",
@@ -1262,6 +1332,7 @@
   {
     "id": "twosome-0071",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "그나와 민트",
@@ -1280,6 +1351,7 @@
   {
     "id": "twosome-0072",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "얼그레이",
@@ -1298,6 +1370,7 @@
   {
     "id": "twosome-0073",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "크림 카라멜",
@@ -1316,6 +1389,7 @@
   {
     "id": "twosome-0074",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "카모마일",
@@ -1334,6 +1408,7 @@
   {
     "id": "twosome-0075",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["tea"],
     "title": "레몬 아이스티",
@@ -1352,6 +1427,7 @@
   {
     "id": "twosome-0076",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "과일 요거트 아이스크림",
@@ -1370,6 +1446,7 @@
   {
     "id": "twosome-0077",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream", "bingsu"],
     "title": "우리 홍시 빙수",
@@ -1388,6 +1465,7 @@
   {
     "id": "twosome-0078",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream", "bingsu"],
     "title": "애플망고 빙수",
@@ -1406,6 +1484,7 @@
   {
     "id": "twosome-0079",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream", "bingsu"],
     "title": "우리 팥 빙수",
@@ -1424,6 +1503,7 @@
   {
     "id": "twosome-0080",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "컵)초코 요거트 아이스크림",
@@ -1442,6 +1522,7 @@
   {
     "id": "twosome-0081",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "콘)초코 요거트 아이스크림",
@@ -1460,6 +1541,7 @@
   {
     "id": "twosome-0082",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "콘)요거트 아이스크림",
@@ -1478,6 +1560,7 @@
   {
     "id": "twosome-0083",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "컵)요거트 아이스크림",
@@ -1496,6 +1579,7 @@
   {
     "id": "twosome-0084",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["icecream"],
     "title": "초코 쿠키 요거트 아이스크림",
@@ -1514,6 +1598,7 @@
   {
     "id": "twosome-0085",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "샤인생",
@@ -1532,6 +1617,7 @@
   {
     "id": "twosome-0086",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "멜론생",
@@ -1550,6 +1636,7 @@
   {
     "id": "twosome-0087",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "피치생",
@@ -1568,6 +1655,7 @@
   {
     "id": "twosome-0088",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "망고생",
@@ -1586,6 +1674,7 @@
   {
     "id": "twosome-0089",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "金귤생",
@@ -1604,6 +1693,7 @@
   {
     "id": "twosome-0090",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "생블루베리 요거트 생크림",
@@ -1622,6 +1712,7 @@
   {
     "id": "twosome-0091",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "미키 마스카포네 초코 생크림",
@@ -1640,6 +1731,7 @@
   {
     "id": "twosome-0092",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "미키 초코 베리 케이크",
@@ -1658,6 +1750,7 @@
   {
     "id": "twosome-0093",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "투썸 퀸즈 캐롯",
@@ -1676,6 +1769,7 @@
   {
     "id": "twosome-0094",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "투썸 레드 벨벳",
@@ -1694,6 +1788,7 @@
   {
     "id": "twosome-0095",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "스초생2단",
@@ -1712,6 +1807,7 @@
   {
     "id": "twosome-0096",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "스초생 프레지에",
@@ -1730,6 +1826,7 @@
   {
     "id": "twosome-0097",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "스초생®",
@@ -1748,6 +1845,7 @@
   {
     "id": "twosome-0098",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "베초생®",
@@ -1766,6 +1864,7 @@
   {
     "id": "twosome-0099",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "체리 초콜릿 생크림",
@@ -1784,6 +1883,7 @@
   {
     "id": "twosome-0100",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "샤초생®",
@@ -1802,6 +1902,7 @@
   {
     "id": "twosome-0101",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "화이트 스초생",
@@ -1820,6 +1921,7 @@
   {
     "id": "twosome-0102",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "화이트 베초생",
@@ -1838,6 +1940,7 @@
   {
     "id": "twosome-0103",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "화이트 체리 초콜릿 생크림",
@@ -1856,6 +1959,7 @@
   {
     "id": "twosome-0104",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "화이트 샤초생",
@@ -1874,6 +1978,7 @@
   {
     "id": "twosome-0105",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "딸기 생크림",
@@ -1892,6 +1997,7 @@
   {
     "id": "twosome-0106",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "베리 생크림",
@@ -1910,6 +2016,7 @@
   {
     "id": "twosome-0107",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "체리 생크림",
@@ -1928,6 +2035,7 @@
   {
     "id": "twosome-0108",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파베 초콜릿 케이크",
@@ -1946,6 +2054,7 @@
   {
     "id": "twosome-0109",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "투썸 오벌 티라미수",
@@ -1964,6 +2073,7 @@
   {
     "id": "twosome-0110",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "아박® 홀케이크",
@@ -1982,6 +2092,7 @@
   {
     "id": "twosome-0111",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "투썸 해피데이 베어",
@@ -2000,6 +2111,7 @@
   {
     "id": "twosome-0112",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "마이 투썸하트",
@@ -2018,6 +2130,7 @@
   {
     "id": "twosome-0113",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "마이 투썸하트 듀오",
@@ -2036,6 +2149,7 @@
   {
     "id": "twosome-0114",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "클래식 가토 쇼콜라",
@@ -2054,6 +2168,7 @@
   {
     "id": "twosome-0115",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "뉴욕 치즈",
@@ -2072,6 +2187,7 @@
   {
     "id": "twosome-0116",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "TWG 얼그레이 밀크티 쉬폰",
@@ -2090,6 +2206,7 @@
   {
     "id": "twosome-0117",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "더 블랙 그뤼에르 치즈(1호)",
@@ -2108,6 +2225,7 @@
   {
     "id": "twosome-0118",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 말차 아박",
@@ -2126,6 +2244,7 @@
   {
     "id": "twosome-0119",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 아박®",
@@ -2144,6 +2263,7 @@
   {
     "id": "twosome-0120",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 피치생",
@@ -2162,6 +2282,7 @@
   {
     "id": "twosome-0121",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 망고생",
@@ -2180,6 +2301,7 @@
   {
     "id": "twosome-0122",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 미키&미니 초코 베리 케이크",
@@ -2198,6 +2320,7 @@
   {
     "id": "twosome-0123",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 화이트 스초생",
@@ -2216,6 +2339,7 @@
   {
     "id": "twosome-0124",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 화이트 베초생",
@@ -2234,6 +2358,7 @@
   {
     "id": "twosome-0125",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 화이트 체리 초콜릿 생크림",
@@ -2252,6 +2377,7 @@
   {
     "id": "twosome-0126",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 화이트 샤초생",
@@ -2270,6 +2396,7 @@
   {
     "id": "twosome-0127",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 스초생",
@@ -2288,6 +2415,7 @@
   {
     "id": "twosome-0128",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 베초생",
@@ -2306,6 +2434,7 @@
   {
     "id": "twosome-0129",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 체리 초콜릿 생크림",
@@ -2324,6 +2453,7 @@
   {
     "id": "twosome-0130",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 샤초생",
@@ -2342,6 +2472,7 @@
   {
     "id": "twosome-0131",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["whole-cake"],
     "title": "파티팩 마스카포네 티라미수",
@@ -2360,6 +2491,7 @@
   {
     "id": "twosome-0132",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "떠먹는 말차 아박",
@@ -2378,6 +2510,7 @@
   {
     "id": "twosome-0133",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "샤인생(쁘띠)",
@@ -2396,6 +2529,7 @@
   {
     "id": "twosome-0134",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "멜론생(쁘띠)",
@@ -2414,6 +2548,7 @@
   {
     "id": "twosome-0135",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "떠먹는 미키&미니 초코 베리 케이크",
@@ -2432,6 +2567,7 @@
   {
     "id": "twosome-0136",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "투썸 마카롱 세트(6개입)",
@@ -2450,6 +2586,7 @@
   {
     "id": "twosome-0137",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "투썸 마카롱 세트(12개입)",
@@ -2468,6 +2605,7 @@
   {
     "id": "twosome-0138",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "황치즈 마카롱",
@@ -2486,6 +2624,7 @@
   {
     "id": "twosome-0139",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "청포도 요거트 마카롱",
@@ -2504,6 +2643,7 @@
   {
     "id": "twosome-0140",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "마다가스카르 바닐라 마카롱",
@@ -2522,6 +2662,7 @@
   {
     "id": "twosome-0141",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "초콜릿 마카롱",
@@ -2540,6 +2681,7 @@
   {
     "id": "twosome-0142",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "산딸기 마카롱",
@@ -2558,6 +2700,7 @@
   {
     "id": "twosome-0143",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["dessert"],
     "title": "블루베리 마카롱",
@@ -2576,6 +2719,7 @@
   {
     "id": "twosome-0144",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "그릴드 치킨 반미 샌드위치",
@@ -2594,6 +2738,7 @@
   {
     "id": "twosome-0145",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "직화 불고기 반미 샌드위치",
@@ -2612,6 +2757,7 @@
   {
     "id": "twosome-0146",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "그릴드 어니언 치즈 포카치아",
@@ -2630,6 +2776,7 @@
   {
     "id": "twosome-0147",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "올리브 햄 치즈 포카치아",
@@ -2648,6 +2795,7 @@
   {
     "id": "twosome-0148",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "크랜베리 치킨 샌드위치",
@@ -2666,6 +2814,7 @@
   {
     "id": "twosome-0149",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "B.E.L.T 샌드위치",
@@ -2684,6 +2833,7 @@
   {
     "id": "twosome-0150",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "그릴드 베지 치즈 파니니",
@@ -2702,6 +2852,7 @@
   {
     "id": "twosome-0151",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "트러플 머쉬룸 오믈렛 파니니",
@@ -2720,6 +2871,7 @@
   {
     "id": "twosome-0152",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "페스토 햄 치즈 파니니",
@@ -2738,6 +2890,7 @@
   {
     "id": "twosome-0153",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "멕시칸 파니니",
@@ -2756,6 +2909,7 @@
   {
     "id": "twosome-0154",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "바베큐 치킨 파니니",
@@ -2774,6 +2928,7 @@
   {
     "id": "twosome-0155",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "베이컨 체다 베이글",
@@ -2792,6 +2947,7 @@
   {
     "id": "twosome-0156",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "부드러운 에그 잉글리쉬 머핀",
@@ -2810,6 +2966,7 @@
   {
     "id": "twosome-0157",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "오븐에 구운 몬테크리스토",
@@ -2828,6 +2985,7 @@
   {
     "id": "twosome-0158",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "크로크무슈",
@@ -2846,6 +3004,7 @@
   {
     "id": "twosome-0159",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "스크램블 에그 샌드위치",
@@ -2864,6 +3023,7 @@
   {
     "id": "twosome-0160",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "참치 샐러드번",
@@ -2882,6 +3042,7 @@
   {
     "id": "twosome-0161",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "감자 샐러드번",
@@ -2900,6 +3061,7 @@
   {
     "id": "twosome-0162",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "에그 샐러드번",
@@ -2918,6 +3080,7 @@
   {
     "id": "twosome-0163",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "불고기 두부 포케 샐러드",
@@ -2936,6 +3099,7 @@
   {
     "id": "twosome-0164",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "치킨 타코 포케 샐러드",
@@ -2954,6 +3118,7 @@
   {
     "id": "twosome-0165",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "리코타 바질 펜네 샐러드",
@@ -2972,6 +3137,7 @@
   {
     "id": "twosome-0166",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "멀티 그레인 치킨 샐러드",
@@ -2990,6 +3156,7 @@
   {
     "id": "twosome-0167",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "플레인 그릭 요거트",
@@ -3008,6 +3175,7 @@
   {
     "id": "twosome-0168",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "양송이 크림 수프with브리오슈번",
@@ -3026,6 +3194,7 @@
   {
     "id": "twosome-0169",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "반숙란",
@@ -3044,6 +3213,7 @@
   {
     "id": "twosome-0170",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "버터 샌드 쿠키 세트(6개입)",
@@ -3062,6 +3232,7 @@
   {
     "id": "twosome-0171",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "미니의 버터 샌드 쿠키(카라멜)",
@@ -3080,6 +3251,7 @@
   {
     "id": "twosome-0172",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "미키의 버터 샌드 쿠키(초콜릿)",
@@ -3098,6 +3270,7 @@
   {
     "id": "twosome-0173",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "블루베리 스콘",
@@ -3116,6 +3289,7 @@
   {
     "id": "twosome-0174",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "생크림 버터 스콘",
@@ -3134,6 +3308,7 @@
   {
     "id": "twosome-0175",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "아몬드 크랜베리 쿠키",
@@ -3152,6 +3327,7 @@
   {
     "id": "twosome-0176",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "아이스크림 크로플",
@@ -3170,6 +3346,7 @@
   {
     "id": "twosome-0177",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "초콜릿 피칸 사블레",
@@ -3188,6 +3365,7 @@
   {
     "id": "twosome-0178",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "글루텐 프리 아몬드 코코넛 튀일",
@@ -3206,6 +3384,7 @@
   {
     "id": "twosome-0179",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "미니의 순 우유 크림빵(블루베리요거트)",
@@ -3224,6 +3403,7 @@
   {
     "id": "twosome-0180",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "미키의 순 우유 크림빵(초콜릿)",
@@ -3242,6 +3422,7 @@
   {
     "id": "twosome-0181",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "순 우유 크림빵",
@@ -3260,6 +3441,7 @@
   {
     "id": "twosome-0182",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "올리브 치즈 베이글",
@@ -3278,6 +3460,7 @@
   {
     "id": "twosome-0183",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "멀티 그레인 베이글",
@@ -3296,6 +3479,7 @@
   {
     "id": "twosome-0184",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "블루베리 베이글",
@@ -3314,6 +3498,7 @@
   {
     "id": "twosome-0185",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "소금 프레첼 베이글",
@@ -3332,6 +3517,7 @@
   {
     "id": "twosome-0186",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "클래식 베이글",
@@ -3350,6 +3536,7 @@
   {
     "id": "twosome-0187",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "대파 베이컨 크림치즈 스프레드",
@@ -3368,6 +3555,7 @@
   {
     "id": "twosome-0188",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "무화과 크림치즈 스프레드",
@@ -3386,6 +3574,7 @@
   {
     "id": "twosome-0189",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "플레인 크림치즈 스프레드",
@@ -3404,6 +3593,7 @@
   {
     "id": "twosome-0190",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "소금 버터빵",
@@ -3422,6 +3612,7 @@
   {
     "id": "twosome-0191",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "블랙 소금 버터빵",
@@ -3440,6 +3631,7 @@
   {
     "id": "twosome-0192",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "코코넛 카야 크루아상",
@@ -3458,6 +3650,7 @@
   {
     "id": "twosome-0193",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "블루베리 아몬드 크루아상",
@@ -3476,6 +3669,7 @@
   {
     "id": "twosome-0194",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "크랜베리 호두 깜빠뉴",
@@ -3494,6 +3688,7 @@
   {
     "id": "twosome-0195",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "무화과 브레드&버터",
@@ -3512,6 +3707,7 @@
   {
     "id": "twosome-0196",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "올리브 치즈 브레드",
@@ -3530,6 +3726,7 @@
   {
     "id": "twosome-0197",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "초콜릿 바통 휘낭시에",
@@ -3548,6 +3745,7 @@
   {
     "id": "twosome-0198",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "헤이즐넛 바통 휘낭시에",
@@ -3566,6 +3764,7 @@
   {
     "id": "twosome-0199",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "생미쉘 시트러스 마들렌",
@@ -3584,6 +3783,7 @@
   {
     "id": "twosome-0200",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "월넛 초코칩 쿠키",
@@ -3602,6 +3802,7 @@
   {
     "id": "twosome-0201",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "초코 마카다미아 쿠키",
@@ -3620,6 +3821,7 @@
   {
     "id": "twosome-0202",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "쿠키 선물 세트(3개입)",
@@ -3638,6 +3840,7 @@
   {
     "id": "twosome-0203",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "자일리톨 캔디 배향",
@@ -3656,6 +3859,7 @@
   {
     "id": "twosome-0204",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "자일리톨 캔디 민트향",
@@ -3674,6 +3878,7 @@
   {
     "id": "twosome-0205",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "식물성 프로틴바 초코 브라우니",
@@ -3692,6 +3897,7 @@
   {
     "id": "twosome-0206",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "촉촉한 우리 찐밤",
@@ -3710,6 +3916,7 @@
   {
     "id": "twosome-0207",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "크리스피 칩 살구&넛츠",
@@ -3728,6 +3935,7 @@
   {
     "id": "twosome-0208",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "그릭요거트 그래놀라 바",
@@ -3746,6 +3954,7 @@
   {
     "id": "twosome-0209",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "고구마 바",
@@ -3764,6 +3973,7 @@
   {
     "id": "twosome-0210",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "픽업 초코&밀크 비스킷 바",
@@ -3782,6 +3992,7 @@
   {
     "id": "twosome-0211",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "픽업 초코 비스킷 바",
@@ -3800,6 +4011,7 @@
   {
     "id": "twosome-0212",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "콘플레이크 초콜릿",
@@ -3818,6 +4030,7 @@
   {
     "id": "twosome-0213",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "알파인 밀크 초콜릿",
@@ -3836,6 +4049,7 @@
   {
     "id": "twosome-0214",
     "brand": "twosome",
+    "brandKR": "투썸플레이스",
     "format": "png",
     "category": ["food"],
     "title": "넛츠 앤 푸르츠",

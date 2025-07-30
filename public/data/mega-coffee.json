@@ -2,6 +2,7 @@
   {
     "id": "mega-coffee-0001",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "매지컬 유니콘 프라페",
@@ -20,6 +21,7 @@
   {
     "id": "mega-coffee-0002",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "트로피컬 용과 티플레저",
@@ -38,6 +40,7 @@
   {
     "id": "mega-coffee-0003",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "라벤더 카페라떼",
@@ -56,6 +59,7 @@
   {
     "id": "mega-coffee-0004",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "제로 체리콜라",
@@ -74,6 +78,7 @@
   {
     "id": "mega-coffee-0005",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "그린티 레몬 하이볼 에이드",
@@ -92,6 +97,7 @@
   {
     "id": "mega-coffee-0006",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "꿀수박주스",
@@ -110,6 +116,7 @@
   {
     "id": "mega-coffee-0007",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "꿀수박 화채스무디",
@@ -128,6 +135,7 @@
   {
     "id": "mega-coffee-0008",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(HOT)헛개리카노",
@@ -146,6 +154,7 @@
   {
     "id": "mega-coffee-0009",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(ICE)헛개리카노",
@@ -164,6 +173,7 @@
   {
     "id": "mega-coffee-0010",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "제로 부스트 에이드",
@@ -182,6 +192,7 @@
   {
     "id": "mega-coffee-0011",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "블루베리요거트스무디",
@@ -200,6 +211,7 @@
   {
     "id": "mega-coffee-0012",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "블루베리플럼주스",
@@ -218,6 +230,7 @@
   {
     "id": "mega-coffee-0013",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "골드키위주스",
@@ -236,6 +249,7 @@
   {
     "id": "mega-coffee-0014",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "귤 톡톡 젤리스무디",
@@ -254,6 +268,7 @@
   {
     "id": "mega-coffee-0015",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕메가카페라떼",
@@ -272,6 +287,7 @@
   {
     "id": "mega-coffee-0016",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 왕메가카페라떼",
@@ -290,6 +306,7 @@
   {
     "id": "mega-coffee-0017",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 라이트 바닐라 아몬드라떼",
@@ -308,6 +325,7 @@
   {
     "id": "mega-coffee-0018",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕메가사과유자",
@@ -326,6 +344,7 @@
   {
     "id": "mega-coffee-0019",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕메가헛개리카노",
@@ -344,6 +363,7 @@
   {
     "id": "mega-coffee-0020",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(HOT)디카페인 헛개리카노",
@@ -362,6 +382,7 @@
   {
     "id": "mega-coffee-0021",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(ICE)디카페인 헛개리카노",
@@ -380,6 +401,7 @@
   {
     "id": "mega-coffee-0022",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 왕메가헛개리카노",
@@ -398,6 +420,7 @@
   {
     "id": "mega-coffee-0023",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기라떼",
@@ -416,6 +439,7 @@
   {
     "id": "mega-coffee-0024",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(HOT)상큼 리치티",
@@ -434,6 +458,7 @@
   {
     "id": "mega-coffee-0025",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "(ICE)상큼 리치티",
@@ -452,6 +477,7 @@
   {
     "id": "mega-coffee-0026",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "할메가미숫커피",
@@ -470,6 +496,7 @@
   {
     "id": "mega-coffee-0027",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "라이트 바닐라 아몬드라떼",
@@ -488,6 +515,7 @@
   {
     "id": "mega-coffee-0028",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕메가초코",
@@ -506,6 +534,7 @@
   {
     "id": "mega-coffee-0029",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕메가아이스티",
@@ -524,6 +553,7 @@
   {
     "id": "mega-coffee-0030",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "제로 복숭아 아이스티",
@@ -542,6 +572,7 @@
   {
     "id": "mega-coffee-0031",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "연유라떼",
@@ -560,6 +591,7 @@
   {
     "id": "mega-coffee-0032",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "골드망고스무디",
@@ -578,6 +610,7 @@
   {
     "id": "mega-coffee-0033",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "할메가커피",
@@ -596,6 +629,7 @@
   {
     "id": "mega-coffee-0034",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "왕할메가커피",
@@ -614,6 +648,7 @@
   {
     "id": "mega-coffee-0035",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "코코넛 커피 스무디",
@@ -632,6 +667,7 @@
   {
     "id": "mega-coffee-0036",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기주스",
@@ -650,6 +686,7 @@
   {
     "id": "mega-coffee-0037",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기바나나주스",
@@ -668,6 +705,7 @@
   {
     "id": "mega-coffee-0038",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 에스프레소",
@@ -686,6 +724,7 @@
   {
     "id": "mega-coffee-0039",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 아메리카노",
@@ -704,6 +743,7 @@
   {
     "id": "mega-coffee-0040",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 꿀아메리카노",
@@ -722,6 +762,7 @@
   {
     "id": "mega-coffee-0041",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 헤이즐넛 아메리카노",
@@ -740,6 +781,7 @@
   {
     "id": "mega-coffee-0042",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 바닐라 아메리카노",
@@ -758,6 +800,7 @@
   {
     "id": "mega-coffee-0043",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카페라떼",
@@ -776,6 +819,7 @@
   {
     "id": "mega-coffee-0044",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카푸치노",
@@ -794,6 +838,7 @@
   {
     "id": "mega-coffee-0045",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 바닐라라떼",
@@ -812,6 +857,7 @@
   {
     "id": "mega-coffee-0046",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 헤이즐넛 라떼",
@@ -830,6 +876,7 @@
   {
     "id": "mega-coffee-0047",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카라멜마끼아또",
@@ -848,6 +895,7 @@
   {
     "id": "mega-coffee-0048",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 연유라떼",
@@ -866,6 +914,7 @@
   {
     "id": "mega-coffee-0049",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카페모카",
@@ -884,6 +933,7 @@
   {
     "id": "mega-coffee-0050",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 아메리카노",
@@ -902,6 +952,7 @@
   {
     "id": "mega-coffee-0051",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 메가리카노",
@@ -920,6 +971,7 @@
   {
     "id": "mega-coffee-0052",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 꿀아메리카노",
@@ -938,6 +990,7 @@
   {
     "id": "mega-coffee-0053",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 헤이즐넛 아메리카노",
@@ -956,6 +1009,7 @@
   {
     "id": "mega-coffee-0054",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 바닐라 아메리카노",
@@ -974,6 +1028,7 @@
   {
     "id": "mega-coffee-0055",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카페라떼",
@@ -992,6 +1047,7 @@
   {
     "id": "mega-coffee-0056",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카푸치노",
@@ -1010,6 +1066,7 @@
   {
     "id": "mega-coffee-0057",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 바닐라라떼",
@@ -1028,6 +1085,7 @@
   {
     "id": "mega-coffee-0058",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 헤이즐넛 라떼",
@@ -1046,6 +1104,7 @@
   {
     "id": "mega-coffee-0059",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카라멜마끼아또",
@@ -1064,6 +1123,7 @@
   {
     "id": "mega-coffee-0060",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 연유라떼",
@@ -1082,6 +1142,7 @@
   {
     "id": "mega-coffee-0061",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "디카페인 카페모카",
@@ -1100,6 +1161,7 @@
   {
     "id": "mega-coffee-0062",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기쿠키프라페",
@@ -1118,6 +1180,7 @@
   {
     "id": "mega-coffee-0063",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루디카페인",
@@ -1136,6 +1199,7 @@
   {
     "id": "mega-coffee-0064",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루디카페인",
@@ -1154,6 +1218,7 @@
   {
     "id": "mega-coffee-0065",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루디카페인라떼",
@@ -1172,6 +1237,7 @@
   {
     "id": "mega-coffee-0066",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루디카페인라떼",
@@ -1190,6 +1256,7 @@
   {
     "id": "mega-coffee-0067",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "에스프레소",
@@ -1208,6 +1275,7 @@
   {
     "id": "mega-coffee-0068",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "에스프레소 도피오",
@@ -1226,6 +1294,7 @@
   {
     "id": "mega-coffee-0069",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "쿠키프라페",
@@ -1244,6 +1313,7 @@
   {
     "id": "mega-coffee-0070",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "고구마라떼",
@@ -1262,6 +1332,7 @@
   {
     "id": "mega-coffee-0071",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "곡물라떼",
@@ -1280,6 +1351,7 @@
   {
     "id": "mega-coffee-0072",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "토피넛라떼",
@@ -1298,6 +1370,7 @@
   {
     "id": "mega-coffee-0073",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "고구마라떼",
@@ -1316,6 +1389,7 @@
   {
     "id": "mega-coffee-0074",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "곡물라떼",
@@ -1334,6 +1408,7 @@
   {
     "id": "mega-coffee-0075",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "오레오초코라떼",
@@ -1352,6 +1427,7 @@
   {
     "id": "mega-coffee-0076",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "토피넛라떼",
@@ -1370,6 +1446,7 @@
   {
     "id": "mega-coffee-0077",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "흑당버블밀크티라떼",
@@ -1388,6 +1465,7 @@
   {
     "id": "mega-coffee-0078",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "핫초코",
@@ -1406,6 +1484,7 @@
   {
     "id": "mega-coffee-0079",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "녹차라떼",
@@ -1424,6 +1503,7 @@
   {
     "id": "mega-coffee-0080",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "로얄밀크티라떼",
@@ -1442,6 +1522,7 @@
   {
     "id": "mega-coffee-0081",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "흑당라떼",
@@ -1460,6 +1541,7 @@
   {
     "id": "mega-coffee-0082",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "흑당밀크티라떼",
@@ -1478,6 +1560,7 @@
   {
     "id": "mega-coffee-0083",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "흑당버블라떼",
@@ -1496,6 +1579,7 @@
   {
     "id": "mega-coffee-0084",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "아이스초코",
@@ -1514,6 +1598,7 @@
   {
     "id": "mega-coffee-0085",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "녹차라떼",
@@ -1532,6 +1617,7 @@
   {
     "id": "mega-coffee-0086",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "로얄밀크티라떼",
@@ -1550,6 +1636,7 @@
   {
     "id": "mega-coffee-0087",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "아메리카노",
@@ -1568,6 +1655,7 @@
   {
     "id": "mega-coffee-0088",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "메가리카노",
@@ -1586,6 +1674,7 @@
   {
     "id": "mega-coffee-0089",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "꿀아메리카노",
@@ -1604,6 +1693,7 @@
   {
     "id": "mega-coffee-0090",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "바닐라라떼",
@@ -1622,6 +1712,7 @@
   {
     "id": "mega-coffee-0091",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "바닐라아메리카노",
@@ -1640,6 +1731,7 @@
   {
     "id": "mega-coffee-0092",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "연유라떼",
@@ -1658,6 +1750,7 @@
   {
     "id": "mega-coffee-0093",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카라멜마끼아또",
@@ -1676,6 +1769,7 @@
   {
     "id": "mega-coffee-0094",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카페라떼",
@@ -1694,6 +1788,7 @@
   {
     "id": "mega-coffee-0095",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카페모카",
@@ -1712,6 +1807,7 @@
   {
     "id": "mega-coffee-0096",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카푸치노",
@@ -1730,6 +1826,7 @@
   {
     "id": "mega-coffee-0097",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루라떼",
@@ -1748,6 +1845,7 @@
   {
     "id": "mega-coffee-0098",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루오리지널",
@@ -1766,6 +1864,7 @@
   {
     "id": "mega-coffee-0099",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "헤이즐넛라떼",
@@ -1784,6 +1883,7 @@
   {
     "id": "mega-coffee-0100",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "헤이즐넛아메리카노",
@@ -1802,6 +1902,7 @@
   {
     "id": "mega-coffee-0101",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "꿀아메리카노",
@@ -1820,6 +1921,7 @@
   {
     "id": "mega-coffee-0102",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "바닐라라떼",
@@ -1838,6 +1940,7 @@
   {
     "id": "mega-coffee-0103",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "바닐라아메리카노",
@@ -1856,6 +1959,7 @@
   {
     "id": "mega-coffee-0104",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카라멜마끼아또",
@@ -1874,6 +1978,7 @@
   {
     "id": "mega-coffee-0105",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카페라떼",
@@ -1892,6 +1997,7 @@
   {
     "id": "mega-coffee-0106",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카페모카",
@@ -1910,6 +2016,7 @@
   {
     "id": "mega-coffee-0107",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "카푸치노",
@@ -1928,6 +2035,7 @@
   {
     "id": "mega-coffee-0108",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루라떼",
@@ -1946,6 +2054,7 @@
   {
     "id": "mega-coffee-0109",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "콜드브루오리지널",
@@ -1964,6 +2073,7 @@
   {
     "id": "mega-coffee-0110",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "헤이즐넛라떼",
@@ -1982,6 +2092,7 @@
   {
     "id": "mega-coffee-0111",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "헤이즐넛아메리카노",
@@ -2000,6 +2111,7 @@
   {
     "id": "mega-coffee-0112",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "큐브라떼",
@@ -2018,6 +2130,7 @@
   {
     "id": "mega-coffee-0113",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "아메리카노",
@@ -2036,6 +2149,7 @@
   {
     "id": "mega-coffee-0114",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "녹차프라페",
@@ -2054,6 +2168,7 @@
   {
     "id": "mega-coffee-0115",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기요거트스무디",
@@ -2072,6 +2187,7 @@
   {
     "id": "mega-coffee-0116",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "딸기퐁크러쉬",
@@ -2090,6 +2206,7 @@
   {
     "id": "mega-coffee-0117",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "리얼초코프라페",
@@ -2108,6 +2225,7 @@
   {
     "id": "mega-coffee-0118",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "망고요거트스무디",
@@ -2126,6 +2244,7 @@
   {
     "id": "mega-coffee-0119",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "민트프라페",
@@ -2144,6 +2263,7 @@
   {
     "id": "mega-coffee-0120",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "바나나퐁크러쉬",
@@ -2162,6 +2282,7 @@
   {
     "id": "mega-coffee-0121",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "초코허니퐁크러쉬",
@@ -2180,6 +2301,7 @@
   {
     "id": "mega-coffee-0122",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "커피프라페",
@@ -2198,6 +2320,7 @@
   {
     "id": "mega-coffee-0123",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "플레인요거트스무디",
@@ -2216,6 +2339,7 @@
   {
     "id": "mega-coffee-0124",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "슈크림허니퐁크러쉬",
@@ -2234,6 +2358,7 @@
   {
     "id": "mega-coffee-0125",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "플레인퐁크러쉬",
@@ -2252,6 +2377,7 @@
   {
     "id": "mega-coffee-0126",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "라임모히또",
@@ -2270,6 +2396,7 @@
   {
     "id": "mega-coffee-0127",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "레몬에이드",
@@ -2288,6 +2415,7 @@
   {
     "id": "mega-coffee-0128",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "블루레몬에이드",
@@ -2306,6 +2434,7 @@
   {
     "id": "mega-coffee-0129",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "자몽에이드",
@@ -2324,6 +2453,7 @@
   {
     "id": "mega-coffee-0130",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "청포도에이드",
@@ -2342,6 +2472,7 @@
   {
     "id": "mega-coffee-0131",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "체리콕",
@@ -2360,6 +2491,7 @@
   {
     "id": "mega-coffee-0132",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "메가에이드",
@@ -2378,6 +2510,7 @@
   {
     "id": "mega-coffee-0133",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "녹차",
@@ -2396,6 +2529,7 @@
   {
     "id": "mega-coffee-0134",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "사과유자차",
@@ -2414,6 +2548,7 @@
   {
     "id": "mega-coffee-0135",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "얼그레이",
@@ -2432,6 +2567,7 @@
   {
     "id": "mega-coffee-0136",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "캐모마일",
@@ -2450,6 +2586,7 @@
   {
     "id": "mega-coffee-0137",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "페퍼민트",
@@ -2468,6 +2605,7 @@
   {
     "id": "mega-coffee-0138",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "녹차",
@@ -2486,6 +2624,7 @@
   {
     "id": "mega-coffee-0139",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "사과유자차",
@@ -2504,6 +2643,7 @@
   {
     "id": "mega-coffee-0140",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "얼그레이",
@@ -2522,6 +2662,7 @@
   {
     "id": "mega-coffee-0141",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "캐모마일",
@@ -2540,6 +2681,7 @@
   {
     "id": "mega-coffee-0142",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "페퍼민트",
@@ -2558,6 +2700,7 @@
   {
     "id": "mega-coffee-0143",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "복숭아아이스티",
@@ -2576,6 +2719,7 @@
   {
     "id": "mega-coffee-0144",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "유자차",
@@ -2594,6 +2738,7 @@
   {
     "id": "mega-coffee-0145",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "레몬차",
@@ -2612,6 +2757,7 @@
   {
     "id": "mega-coffee-0146",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "자몽차",
@@ -2630,6 +2776,7 @@
   {
     "id": "mega-coffee-0147",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "허니자몽블랙티",
@@ -2648,6 +2795,7 @@
   {
     "id": "mega-coffee-0148",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "유자차",
@@ -2666,6 +2814,7 @@
   {
     "id": "mega-coffee-0149",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "레몬차",
@@ -2684,6 +2833,7 @@
   {
     "id": "mega-coffee-0150",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "자몽차",
@@ -2702,6 +2852,7 @@
   {
     "id": "mega-coffee-0151",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["beverage"],
     "title": "허니자몽블랙티",
@@ -2720,6 +2871,7 @@
   {
     "id": "mega-coffee-0152",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "멕시칸 미트칠리 핫도그",
@@ -2737,6 +2889,7 @@
   {
     "id": "mega-coffee-0153",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "에그베이컨 모닝 버거",
@@ -2754,6 +2907,7 @@
   {
     "id": "mega-coffee-0154",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "팥빙 젤라또 파르페",
@@ -2772,6 +2926,7 @@
   {
     "id": "mega-coffee-0155",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "팥빙팥빙 파르페",
@@ -2790,6 +2945,7 @@
   {
     "id": "mega-coffee-0156",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "팥빙 초코 젤라또 파르페",
@@ -2808,6 +2964,7 @@
   {
     "id": "mega-coffee-0157",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "망빙 파르페",
@@ -2826,6 +2983,7 @@
   {
     "id": "mega-coffee-0158",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "메가베리 아사이볼",
@@ -2843,6 +3001,7 @@
   {
     "id": "mega-coffee-0159",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "짱 센 어린이상! 고구마루 케이크",
@@ -2861,6 +3020,7 @@
   {
     "id": "mega-coffee-0160",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "치즈 품은 감자빵",
@@ -2878,6 +3038,7 @@
   {
     "id": "mega-coffee-0161",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "엠지씨네 메가칩",
@@ -2896,6 +3057,7 @@
   {
     "id": "mega-coffee-0162",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "와앙 메가초코 크로칸슈",
@@ -2914,6 +3076,7 @@
   {
     "id": "mega-coffee-0163",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코 멜로우 샌드",
@@ -2932,6 +3095,7 @@
   {
     "id": "mega-coffee-0164",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "로얄 밀크티 스모어 쿠키",
@@ -2950,6 +3114,7 @@
   {
     "id": "mega-coffee-0165",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코스모어쿠키",
@@ -2967,6 +3132,7 @@
   {
     "id": "mega-coffee-0166",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "와앙메리칸 뽀득 핫도그",
@@ -2984,6 +3150,7 @@
   {
     "id": "mega-coffee-0167",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "버터버터 팥슈크림 페스츄리",
@@ -3001,6 +3168,7 @@
   {
     "id": "mega-coffee-0168",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "햄앤치즈샌드위치",
@@ -3018,6 +3186,7 @@
   {
     "id": "mega-coffee-0169",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "바질 치폴레치킨 치아바타",
@@ -3036,6 +3205,7 @@
   {
     "id": "mega-coffee-0170",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "핫 치킨&딥치즈 치아바타",
@@ -3053,6 +3223,7 @@
   {
     "id": "mega-coffee-0171",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "저당 우유 생크림 케익",
@@ -3071,6 +3242,7 @@
   {
     "id": "mega-coffee-0172",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "저당 초코 생크림 케익",
@@ -3089,6 +3261,7 @@
   {
     "id": "mega-coffee-0173",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "아이스 허니 와앙 슈",
@@ -3107,6 +3280,7 @@
   {
     "id": "mega-coffee-0174",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "버터버터 마늘 크로크무슈",
@@ -3124,6 +3298,7 @@
   {
     "id": "mega-coffee-0175",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "와앙 바닐라 슈크림빵",
@@ -3141,6 +3316,7 @@
   {
     "id": "mega-coffee-0176",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "버터버터 뜯어먹는 식빵",
@@ -3158,6 +3334,7 @@
   {
     "id": "mega-coffee-0177",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "png",
     "category": ["dessert"],
     "title": "버터버터소금빵",
@@ -3176,6 +3353,7 @@
   {
     "id": "mega-coffee-0178",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코젤라또크로플",
@@ -3193,6 +3371,7 @@
   {
     "id": "mega-coffee-0179",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "와앙 피자 보름달빵",
@@ -3210,6 +3389,7 @@
   {
     "id": "mega-coffee-0180",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "마카다미아 쿠키",
@@ -3228,6 +3408,7 @@
   {
     "id": "mega-coffee-0181",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초콜릿칩 쿠키",
@@ -3246,6 +3427,7 @@
   {
     "id": "mega-coffee-0182",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "플레인크로플",
@@ -3264,6 +3446,7 @@
   {
     "id": "mega-coffee-0183",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "png",
     "category": ["dessert"],
     "title": "크로크무슈",
@@ -3282,6 +3465,7 @@
   {
     "id": "mega-coffee-0184",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "몽쉘케이크",
@@ -3300,6 +3484,7 @@
   {
     "id": "mega-coffee-0185",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "치즈 케익",
@@ -3318,6 +3503,7 @@
   {
     "id": "mega-coffee-0186",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코무스 케익",
@@ -3336,6 +3522,7 @@
   {
     "id": "mega-coffee-0187",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "티라미수 케익",
@@ -3353,6 +3540,7 @@
   {
     "id": "mega-coffee-0188",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "허니브레드",
@@ -3371,6 +3559,7 @@
   {
     "id": "mega-coffee-0189",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "감자빵",
@@ -3389,6 +3578,7 @@
   {
     "id": "mega-coffee-0190",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "딸기요거트 마카롱",
@@ -3407,6 +3597,7 @@
   {
     "id": "mega-coffee-0191",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "메가초코 마카롱",
@@ -3425,6 +3616,7 @@
   {
     "id": "mega-coffee-0192",
     "brand": "mega-coffee",
+    "brandKR": "메가커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "유니콘프라페 마카롱",

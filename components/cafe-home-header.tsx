@@ -12,7 +12,7 @@ export function CafeHomeHeader() {
   }, []);
 
   return (
-    <header className="p-5 rounded-lg bg-custom-g-2">
+    <header className="p-4 rounded-lg bg-custom-g-2">
       <h1 className={`text-2xl md:text-4xl font-black opacity-70 ${orbitFont.className}`}>
         Cafe(카페)
       </h1>
@@ -21,7 +21,7 @@ export function CafeHomeHeader() {
         alt="dessert"
         height={256}
         width={256}
-        className="mt-5 mb-10 mx-auto h-40 w-40 md:w-52 md:h-52 no-drag"
+        className="mt-4 mb-8 mx-auto h-40 w-40 md:w-52 md:h-52 no-drag"
       />
     </header>
   );

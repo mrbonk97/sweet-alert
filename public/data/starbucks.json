@@ -2,6 +2,7 @@
   {
     "id": "starbucks-0001",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "블랙&화이트 콜드 브루",
@@ -20,6 +21,7 @@
   {
     "id": "starbucks-0002",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "나이트로 바닐라 크림",
@@ -38,6 +40,7 @@
   {
     "id": "starbucks-0003",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "나이트로 콜드 브루",
@@ -56,6 +59,7 @@
   {
     "id": "starbucks-0004",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "돌체 콜드 브루",
@@ -74,6 +78,7 @@
   {
     "id": "starbucks-0005",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "리저브 나이트로",
@@ -92,6 +97,7 @@
   {
     "id": "starbucks-0006",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "리저브 콜드 브루",
@@ -110,6 +116,7 @@
   {
     "id": "starbucks-0007",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "막걸리향 크림 콜드 브루",
@@ -128,6 +135,7 @@
   {
     "id": "starbucks-0008",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "민트 콜드 브루",
@@ -146,6 +154,7 @@
   {
     "id": "starbucks-0009",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "바닐라 크림 콜드 브루",
@@ -164,6 +173,7 @@
   {
     "id": "starbucks-0010",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "베르가못 콜드 브루",
@@ -182,6 +192,7 @@
   {
     "id": "starbucks-0011",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "스모크드 콜드 패션드",
@@ -200,6 +211,7 @@
   {
     "id": "starbucks-0012",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "시그니처 더 블랙 콜드 브루",
@@ -218,6 +230,7 @@
   {
     "id": "starbucks-0013",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "여수 윤슬 헤이즐넛 콜드브루",
@@ -236,6 +249,7 @@
   {
     "id": "starbucks-0014",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "오트 콜드 브루",
@@ -254,6 +268,7 @@
   {
     "id": "starbucks-0015",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "제주 비자림 리저브 콜드 브루",
@@ -272,6 +287,7 @@
   {
     "id": "starbucks-0016",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "콜드 브루",
@@ -290,6 +306,7 @@
   {
     "id": "starbucks-0017",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "콜드 브루(Trenta)",
@@ -308,6 +325,7 @@
   {
     "id": "starbucks-0018",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "콜드 브루 몰트",
@@ -326,6 +344,7 @@
   {
     "id": "starbucks-0019",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["cold-brew"],
     "title": "콜드 브루 플로트",
@@ -344,6 +363,7 @@
   {
     "id": "starbucks-0020",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["brewed"],
     "title": "HP 코스타리카 TL 아이스 블랙&화이트",
@@ -362,6 +382,7 @@
   {
     "id": "starbucks-0021",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["brewed"],
     "title": "아이스 커피",
@@ -380,6 +401,7 @@
   {
     "id": "starbucks-0022",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["brewed"],
     "title": "오늘의 커피",
@@ -398,6 +420,7 @@
   {
     "id": "starbucks-0023",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["brewed"],
     "title": "인도 MM 스모크드 카페 미스토",
@@ -416,6 +439,7 @@
   {
     "id": "starbucks-0024",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "로스티드 마카다미아 라떼",
@@ -434,6 +458,7 @@
   {
     "id": "starbucks-0025",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "밀크카라멜 라떼",
@@ -452,6 +477,7 @@
   {
     "id": "starbucks-0026",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 로스티드 마카다미아 라떼",
@@ -470,6 +496,7 @@
   {
     "id": "starbucks-0027",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 밀크카라멜 라떼",
@@ -488,6 +515,7 @@
   {
     "id": "starbucks-0028",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "에스프레소 콘 파나",
@@ -506,6 +534,7 @@
   {
     "id": "starbucks-0029",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "에스프레소 마키아또",
@@ -524,6 +553,7 @@
   {
     "id": "starbucks-0030",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스타벅스 1호점 카페 아메리카노",
@@ -542,6 +572,7 @@
   {
     "id": "starbucks-0031",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 스타벅스 1호점 카페 아메리카노",
@@ -560,6 +591,7 @@
   {
     "id": "starbucks-0032",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 카페 아메리카노",
@@ -578,6 +610,7 @@
   {
     "id": "starbucks-0033",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "카페 아메리카노",
@@ -596,6 +629,7 @@
   {
     "id": "starbucks-0034",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 카라멜 마키아또",
@@ -614,6 +648,7 @@
   {
     "id": "starbucks-0035",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "카라멜 마키아또",
@@ -632,6 +667,7 @@
   {
     "id": "starbucks-0036",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 카푸치노",
@@ -650,6 +686,7 @@
   {
     "id": "starbucks-0037",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "카푸치노",
@@ -668,6 +705,7 @@
   {
     "id": "starbucks-0038",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "png",
     "category": ["espresso"],
     "title": "라벤더 카페 브레베",
@@ -686,6 +724,7 @@
   {
     "id": "starbucks-0039",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "바닐라 빈 라떼",
@@ -704,6 +743,7 @@
   {
     "id": "starbucks-0040",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "번트 카라멜 라떼",
@@ -722,6 +762,7 @@
   {
     "id": "starbucks-0041",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "사케라또 비안코 오버 아이스",
@@ -740,6 +781,7 @@
   {
     "id": "starbucks-0042",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스타벅스 1호점 카페 라떼",
@@ -758,6 +800,7 @@
   {
     "id": "starbucks-0043",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스타벅스 1호점 크림 라떼",
@@ -776,6 +819,7 @@
   {
     "id": "starbucks-0044",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스타벅스 꿀 호떡 라떼",
@@ -794,6 +838,7 @@
   {
     "id": "starbucks-0045",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스타벅스 돌체 라떼",
@@ -812,6 +857,7 @@
   {
     "id": "starbucks-0046",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "png",
     "category": ["espresso"],
     "title": "아이스 라벤더 카페 브레베",
@@ -830,6 +876,7 @@
   {
     "id": "starbucks-0047",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 바닐라 빈 라떼",
@@ -848,6 +895,7 @@
   {
     "id": "starbucks-0048",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 스타벅스 1호점 카페 라떼",
@@ -866,6 +914,7 @@
   {
     "id": "starbucks-0049",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 스타벅스 1호점 크림 라떼",
@@ -884,6 +933,7 @@
   {
     "id": "starbucks-0050",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 스타벅스 꿀 호떡 라떼",
@@ -902,6 +952,7 @@
   {
     "id": "starbucks-0051",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 스타벅스 돌체 라떼",
@@ -920,6 +971,7 @@
   {
     "id": "starbucks-0052",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 인절미 크림 라떼",
@@ -938,6 +990,7 @@
   {
     "id": "starbucks-0053",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 카페 라떼",
@@ -956,6 +1009,7 @@
   {
     "id": "starbucks-0054",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "인절미 크림 라떼",
@@ -974,6 +1028,7 @@
   {
     "id": "starbucks-0055",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "카페 라떼",
@@ -992,6 +1047,7 @@
   {
     "id": "starbucks-0056",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 카페 모카",
@@ -1010,6 +1066,7 @@
   {
     "id": "starbucks-0057",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 화이트 초콜릿 모카",
@@ -1028,6 +1085,7 @@
   {
     "id": "starbucks-0058",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "카페 모카",
@@ -1046,6 +1104,7 @@
   {
     "id": "starbucks-0059",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "클래식 민트 모카",
@@ -1064,6 +1123,7 @@
   {
     "id": "starbucks-0060",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "화이트 초콜릿 모카",
@@ -1082,6 +1142,7 @@
   {
     "id": "starbucks-0061",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "아이스 플랫 화이트",
@@ -1100,6 +1161,7 @@
   {
     "id": "starbucks-0062",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "플랫 화이트",
@@ -1118,6 +1180,7 @@
   {
     "id": "starbucks-0063",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "바닐라 스타벅스 더블 샷",
@@ -1136,6 +1199,7 @@
   {
     "id": "starbucks-0064",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "사케라또 아포가토",
@@ -1154,6 +1218,7 @@
   {
     "id": "starbucks-0065",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "스파클링 시트러스 에스프레소",
@@ -1172,6 +1237,7 @@
   {
     "id": "starbucks-0066",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "에스프레소",
@@ -1190,6 +1256,7 @@
   {
     "id": "starbucks-0067",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "에스프레소 플라이트",
@@ -1208,6 +1275,7 @@
   {
     "id": "starbucks-0068",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "에스프레소 플라이트 도산",
@@ -1226,6 +1294,7 @@
   {
     "id": "starbucks-0069",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "커피 스타벅스 더블 샷",
@@ -1244,6 +1313,7 @@
   {
     "id": "starbucks-0070",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "클래식 아포가토",
@@ -1262,6 +1332,7 @@
   {
     "id": "starbucks-0071",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["espresso"],
     "title": "헤이즐넛 스타벅스 더블 샷",
@@ -1280,6 +1351,7 @@
   {
     "id": "starbucks-0072",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "스타벅스 꿀 호떡 크림 프라푸치노",
@@ -1298,6 +1370,7 @@
   {
     "id": "starbucks-0073",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "카페 브륄레 프라푸치노",
@@ -1316,6 +1389,7 @@
   {
     "id": "starbucks-0074",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "더 멜론 오브 멜론 프라푸치노",
@@ -1334,6 +1408,7 @@
   {
     "id": "starbucks-0075",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "바나나 아몬드 오트 프라푸치노",
@@ -1352,6 +1427,7 @@
   {
     "id": "starbucks-0076",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "베르가못 딸기 크림 프라푸치노",
@@ -1370,6 +1446,7 @@
   {
     "id": "starbucks-0077",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "베르가못 제주 말차 크림 프라푸치노",
@@ -1388,6 +1465,7 @@
   {
     "id": "starbucks-0078",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "자몽 망고 코코 프라푸치노",
@@ -1406,6 +1484,7 @@
   {
     "id": "starbucks-0079",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "초코 바나나 아몬드 오트 프라푸치노",
@@ -1424,6 +1503,7 @@
   {
     "id": "starbucks-0080",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "더블 에스프레소 칩 프라푸치노",
@@ -1442,6 +1522,7 @@
   {
     "id": "starbucks-0081",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "에스프레소 프라푸치노",
@@ -1460,6 +1541,7 @@
   {
     "id": "starbucks-0082",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "자바 칩 프라푸치노",
@@ -1478,6 +1560,7 @@
   {
     "id": "starbucks-0083",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "칩 앤 칩 모카 프라푸치노",
@@ -1496,6 +1579,7 @@
   {
     "id": "starbucks-0084",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "카라멜 프라푸치노",
@@ -1514,6 +1598,7 @@
   {
     "id": "starbucks-0085",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "딸기 글레이즈드 크림 프라푸치노",
@@ -1532,6 +1617,7 @@
   {
     "id": "starbucks-0086",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "인절미 제주 말차 크림 프라푸치노",
@@ -1550,6 +1636,7 @@
   {
     "id": "starbucks-0087",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "제주 까망 크림 프라푸치노",
@@ -1568,6 +1655,7 @@
   {
     "id": "starbucks-0088",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "제주 말차 크림 프라푸치노",
@@ -1586,6 +1674,7 @@
   {
     "id": "starbucks-0089",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "제주 쑥떡 크림 프라푸치노",
@@ -1604,6 +1693,7 @@
   {
     "id": "starbucks-0090",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "초콜릿 크림 칩 프라푸치노",
@@ -1622,6 +1712,7 @@
   {
     "id": "starbucks-0091",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["frappuccino"],
     "title": "화이트 타이거 프라푸치노",
@@ -1640,6 +1731,7 @@
   {
     "id": "starbucks-0092",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "북한산 레몬 얼 그레이 블렌디드",
@@ -1658,6 +1750,7 @@
   {
     "id": "starbucks-0093",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "스타벅스 클래식 밀크티 블렌디드",
@@ -1676,6 +1769,7 @@
   {
     "id": "starbucks-0094",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "여수 바다 유자 블렌디드",
@@ -1694,6 +1788,7 @@
   {
     "id": "starbucks-0095",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "제주 탄제린 블렌디드",
@@ -1712,6 +1807,7 @@
   {
     "id": "starbucks-0096",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "딸기 딜라이트 요거트 블렌디드",
@@ -1730,6 +1826,7 @@
   {
     "id": "starbucks-0097",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "망고 바나나 블렌디드",
@@ -1748,6 +1845,7 @@
   {
     "id": "starbucks-0098",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "스타벅스 판다 쿠키 블렌디드",
@@ -1766,6 +1864,7 @@
   {
     "id": "starbucks-0099",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "제주 말차 요거트 블렌디드",
@@ -1784,6 +1883,7 @@
   {
     "id": "starbucks-0100",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "피치 망고 블렌디드",
@@ -1802,6 +1902,7 @@
   {
     "id": "starbucks-0101",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["blended"],
     "title": "피치 요거트 블렌디드",
@@ -1820,6 +1921,7 @@
   {
     "id": "starbucks-0102",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["refresher"],
     "title": "딸기 아사이 레모네이드 스타벅스 리프레셔",
@@ -1838,6 +1940,7 @@
   {
     "id": "starbucks-0103",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["refresher"],
     "title": "딸기 아사이 레모네이드 스타벅스 리프레셔(Trenta)",
@@ -1856,6 +1959,7 @@
   {
     "id": "starbucks-0104",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "골든 만다린 홉 피지오",
@@ -1874,6 +1978,7 @@
   {
     "id": "starbucks-0105",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "라이트 핑크 자몽 피지오",
@@ -1892,6 +1997,7 @@
   {
     "id": "starbucks-0106",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "리버 피치 피지오",
@@ -1910,6 +2016,7 @@
   {
     "id": "starbucks-0107",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "여수 바다 자몽 피지오",
@@ -1928,6 +2035,7 @@
   {
     "id": "starbucks-0108",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "의암호의 초록빛 자몽 피지오",
@@ -1946,6 +2054,7 @@
   {
     "id": "starbucks-0109",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "제주팔삭 셔벗 피지오",
@@ -1964,6 +2073,7 @@
   {
     "id": "starbucks-0110",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "제주팔삭 피지오",
@@ -1982,6 +2092,7 @@
   {
     "id": "starbucks-0111",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["fizzio"],
     "title": "쿨 라임 피지오",
@@ -2000,6 +2111,7 @@
   {
     "id": "starbucks-0112",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "민트 블렌드 티",
@@ -2018,6 +2130,7 @@
   {
     "id": "starbucks-0113",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 민트 블렌드 티",
@@ -2036,6 +2149,7 @@
   {
     "id": "starbucks-0114",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 얼 그레이 티",
@@ -2054,6 +2168,7 @@
   {
     "id": "starbucks-0115",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 유스베리 티",
@@ -2072,6 +2187,7 @@
   {
     "id": "starbucks-0116",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 유자 민트 티",
@@ -2090,6 +2206,7 @@
   {
     "id": "starbucks-0117",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 잉글리쉬 브렉퍼스트 티",
@@ -2108,6 +2225,7 @@
   {
     "id": "starbucks-0118",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 제주 유기농 녹차로 만든 티",
@@ -2126,6 +2244,7 @@
   {
     "id": "starbucks-0119",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 제주팔삭 & 자몽 허니 블랙 티",
@@ -2144,6 +2263,7 @@
   {
     "id": "starbucks-0120",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 캐모마일 블렌드 티",
@@ -2162,6 +2282,7 @@
   {
     "id": "starbucks-0121",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 히비스커스 블렌드 티",
@@ -2180,6 +2301,7 @@
   {
     "id": "starbucks-0122",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "얼 그레이 티",
@@ -2198,6 +2320,7 @@
   {
     "id": "starbucks-0123",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "유스베리 티",
@@ -2216,6 +2339,7 @@
   {
     "id": "starbucks-0124",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "유자 민트 티",
@@ -2234,6 +2358,7 @@
   {
     "id": "starbucks-0125",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "잉글리쉬 브렉퍼스트 티",
@@ -2252,6 +2377,7 @@
   {
     "id": "starbucks-0126",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "자몽 허니 블랙 티",
@@ -2270,6 +2396,7 @@
   {
     "id": "starbucks-0127",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "제주 유기농 녹차로 만든 티",
@@ -2288,6 +2415,7 @@
   {
     "id": "starbucks-0128",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "제주팔삭 & 자몽 허니 블랙 티",
@@ -2306,6 +2434,7 @@
   {
     "id": "starbucks-0129",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "캐모마일 블렌드 티",
@@ -2324,6 +2453,7 @@
   {
     "id": "starbucks-0130",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "히비스커스 블렌드 티",
@@ -2342,6 +2472,7 @@
   {
     "id": "starbucks-0131",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "MINI 라임 패션 티 with 팔삭 셔벗",
@@ -2360,6 +2491,7 @@
   {
     "id": "starbucks-0132",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "레드 파워 패션 티",
@@ -2378,6 +2510,7 @@
   {
     "id": "starbucks-0133",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "레몬 캐모마일 블렌드 티",
@@ -2396,6 +2529,7 @@
   {
     "id": "starbucks-0134",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "복숭아 아이스 티(Trenta)",
@@ -2414,6 +2548,7 @@
   {
     "id": "starbucks-0135",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "복숭아 아이스 티",
@@ -2432,6 +2567,7 @@
   {
     "id": "starbucks-0136",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "복숭아 핫 티",
@@ -2450,6 +2586,7 @@
   {
     "id": "starbucks-0137",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 레몬 캐모마일 블렌드 티",
@@ -2468,6 +2605,7 @@
   {
     "id": "starbucks-0138",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 자몽 허니 블랙 티(Trenta)",
@@ -2486,6 +2624,7 @@
   {
     "id": "starbucks-0139",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 자몽 허니 블랙 티",
@@ -2504,6 +2643,7 @@
   {
     "id": "starbucks-0140",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "말차 티라미수 라떼",
@@ -2522,6 +2662,7 @@
   {
     "id": "starbucks-0141",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "스타벅스 클래식 밀크 티",
@@ -2540,6 +2681,7 @@
   {
     "id": "starbucks-0142",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "스타벅스 클래식 밀크 티 보틀",
@@ -2558,6 +2700,7 @@
   {
     "id": "starbucks-0143",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 말차 티라미수 라떼",
@@ -2576,6 +2719,7 @@
   {
     "id": "starbucks-0144",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 스타벅스 클래식 밀크 티",
@@ -2594,6 +2738,7 @@
   {
     "id": "starbucks-0145",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 의암호의 보랏빛 라벤더 티 라떼",
@@ -2612,6 +2757,7 @@
   {
     "id": "starbucks-0146",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 인절미 제주 말차 라떼",
@@ -2630,6 +2776,7 @@
   {
     "id": "starbucks-0147",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "아이스 제주 말차 라떼",
@@ -2648,6 +2795,7 @@
   {
     "id": "starbucks-0148",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "의암호의 보랏빛 라벤더 티 라떼",
@@ -2666,6 +2814,7 @@
   {
     "id": "starbucks-0149",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "인절미 제주 말차 라떼",
@@ -2684,6 +2833,7 @@
   {
     "id": "starbucks-0150",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["tea"],
     "title": "제주 말차 라떼",
@@ -2702,6 +2852,7 @@
   {
     "id": "starbucks-0151",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "스타벅스 망고 라떼",
@@ -2720,6 +2871,7 @@
   {
     "id": "starbucks-0152",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "딸기 콜드폼 초콜릿",
@@ -2738,6 +2890,7 @@
   {
     "id": "starbucks-0153",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "시그니처 핫 초콜릿",
@@ -2756,6 +2909,7 @@
   {
     "id": "starbucks-0154",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "아이스 시그니처 초콜릿",
@@ -2774,6 +2928,7 @@
   {
     "id": "starbucks-0155",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "아이스 티라미수 초콜릿",
@@ -2792,6 +2947,7 @@
   {
     "id": "starbucks-0156",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "티라미수 초콜릿",
@@ -2810,6 +2966,7 @@
   {
     "id": "starbucks-0157",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "플러피 판다 아이스 초콜릿",
@@ -2828,6 +2985,7 @@
   {
     "id": "starbucks-0158",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "플러피 판다 핫 초콜릿",
@@ -2846,6 +3004,7 @@
   {
     "id": "starbucks-0159",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "딸기 콜드폼 딸기 라떼",
@@ -2864,6 +3023,7 @@
   {
     "id": "starbucks-0160",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "스타벅스 슬래머",
@@ -2882,6 +3042,7 @@
   {
     "id": "starbucks-0161",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "스팀 우유",
@@ -2900,6 +3061,7 @@
   {
     "id": "starbucks-0162",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "우유",
@@ -2918,6 +3080,7 @@
   {
     "id": "starbucks-0163",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["etc"],
     "title": "제주팔삭 셔벗",
@@ -2936,6 +3099,7 @@
   {
     "id": "starbucks-0164",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "ABC 클렌즈 190ML",
@@ -2954,6 +3118,7 @@
   {
     "id": "starbucks-0165",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "스퀴즈드 오렌지 주스 100ML",
@@ -2972,6 +3137,7 @@
   {
     "id": "starbucks-0166",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "케일 클렌즈 190ML",
@@ -2990,6 +3156,7 @@
   {
     "id": "starbucks-0167",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "딸기주스 190ML",
@@ -3008,6 +3175,7 @@
   {
     "id": "starbucks-0168",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "망고주스 190ML",
@@ -3026,6 +3194,7 @@
   {
     "id": "starbucks-0169",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "수박 주스 190ML",
@@ -3044,6 +3213,7 @@
   {
     "id": "starbucks-0170",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "유기농 오렌지 100% 주스 190ML",
@@ -3062,6 +3232,7 @@
   {
     "id": "starbucks-0171",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "유기농 오렌지 100% 주스 591ML",
@@ -3080,6 +3251,7 @@
   {
     "id": "starbucks-0172",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "케일&사과주스 190ML",
@@ -3098,6 +3270,7 @@
   {
     "id": "starbucks-0173",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "한라봉주스 190ML",
@@ -3116,6 +3289,7 @@
   {
     "id": "starbucks-0174",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "햇사과 주스 190ML",
@@ -3134,6 +3308,7 @@
   {
     "id": "starbucks-0175",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "햇사과 주스 591ML",
@@ -3152,6 +3327,7 @@
   {
     "id": "starbucks-0176",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "딸기 가득 요거트 190ML",
@@ -3170,6 +3346,7 @@
   {
     "id": "starbucks-0177",
     "brand": "starbucks",
+    "brandKR": "스타벅스",
     "format": "jpg",
     "category": ["juice"],
     "title": "블루베리 요거트 190ML",

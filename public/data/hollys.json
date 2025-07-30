@@ -2,6 +2,7 @@
   {
     "id": "hollys-0001",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "아샷추",
     "titleEng": "Iced Tea with an Espresso Shot",
@@ -18,6 +19,7 @@
   {
     "id": "hollys-0002",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "몬스터 아메리카노",
     "titleEng": "Monster Americano",
@@ -34,6 +36,7 @@
   {
     "id": "hollys-0003",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "블랙아리아",
     "titleEng": "Black Aria Americano",
@@ -50,6 +53,7 @@
   {
     "id": "hollys-0004",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "블랙아리아",
     "titleEng": "Black Aria Deep Latte",
@@ -66,6 +70,7 @@
   {
     "id": "hollys-0005",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "돌체 라떼",
     "titleEng": "Dolce Latte",
@@ -82,6 +87,7 @@
   {
     "id": "hollys-0006",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "디카페인 아메리카노",
     "titleEng": "Americano",
@@ -98,6 +104,7 @@
   {
     "id": "hollys-0007",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "디카페인 카페 라떼",
     "titleEng": "Caffe Latte",
@@ -114,6 +121,7 @@
   {
     "id": "hollys-0008",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "디카페인 바닐라 딜라이트",
     "titleEng": "Vanilla Delight",
@@ -130,6 +138,7 @@
   {
     "id": "hollys-0009",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "콜드브루 딜라이트",
     "titleEng": "Cold Brew Delight",
@@ -146,6 +155,7 @@
   {
     "id": "hollys-0010",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "콜드브루 라떼",
     "titleEng": "Cold Brew Latte",
@@ -162,6 +172,7 @@
   {
     "id": "hollys-0011",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "콜드브루",
     "titleEng": "Cold Brew",
@@ -178,6 +189,7 @@
   {
     "id": "hollys-0012",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "바닐라 딜라이트",
     "titleEng": "Vanilla Delight",
@@ -194,6 +206,7 @@
   {
     "id": "hollys-0013",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "카라멜 마키아또",
     "titleEng": "Caramel Macchiato",
@@ -210,6 +223,7 @@
   {
     "id": "hollys-0014",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "카페 모카",
     "titleEng": "Caffe Mocha",
@@ -226,6 +240,7 @@
   {
     "id": "hollys-0015",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "카푸치노",
     "titleEng": "Cappuccino",
@@ -242,6 +257,7 @@
   {
     "id": "hollys-0016",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "카페 라떼",
     "titleEng": "Caffe Latte",
@@ -258,6 +274,7 @@
   {
     "id": "hollys-0017",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "아메리카노",
     "titleEng": "Caffe Americano",
@@ -274,6 +291,7 @@
   {
     "id": "hollys-0018",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "아포가토",
     "titleEng": "Affogato",
@@ -290,6 +308,7 @@
   {
     "id": "hollys-0019",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "에스프레소",
     "titleEng": "Espresso",
@@ -306,6 +325,7 @@
   {
     "id": "hollys-0020",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "아이스티",
     "titleEng": "Iced Tea",
@@ -322,6 +342,7 @@
   {
     "id": "hollys-0021",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 라떼",
     "titleEng": "Strawberyy Latte",
@@ -338,6 +359,7 @@
   {
     "id": "hollys-0022",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "꿀모과차",
     "titleEng": "Honey Quince Tea",
@@ -354,6 +376,7 @@
   {
     "id": "hollys-0023",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "레몬 생강차",
     "titleEng": "Lemon Ginger Tea",
@@ -370,6 +393,7 @@
   {
     "id": "hollys-0024",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "대추 생강차",
     "titleEng": "Jujube Ginger Tea",
@@ -386,6 +410,7 @@
   {
     "id": "hollys-0025",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "제주 레몬 애플티",
     "titleEng": "Jeju Lemon Apple Tea",
@@ -402,6 +427,7 @@
   {
     "id": "hollys-0026",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "로얄 밀크 버블티",
     "titleEng": "Royal Milk Bubble Tea",
@@ -418,6 +444,7 @@
   {
     "id": "hollys-0027",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "로얄 밀크티 라떼",
     "titleEng": "Royal Milk Tea Latte",
@@ -434,6 +461,7 @@
   {
     "id": "hollys-0028",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "흑당 버블티",
     "titleEng": "Black Sugar Bubble Tea",
@@ -450,6 +478,7 @@
   {
     "id": "hollys-0029",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "핑크 파인 캐모마일티",
     "titleEng": "Pink Pineapple Chamomile Tea",
@@ -466,6 +495,7 @@
   {
     "id": "hollys-0030",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "제주 말차 라떼",
     "titleEng": "Jeju Matcha Latte",
@@ -482,6 +512,7 @@
   {
     "id": "hollys-0031",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "민트초코",
     "titleEng": "Mint Chocolate",
@@ -498,6 +529,7 @@
   {
     "id": "hollys-0032",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "핫/아이스초코",
     "titleEng": "Chocolate HOT/ICED",
@@ -514,6 +546,7 @@
   {
     "id": "hollys-0033",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "화이트초코",
     "titleEng": "White Chocolate",
@@ -530,6 +563,7 @@
   {
     "id": "hollys-0034",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "유자 캐모마일",
     "titleEng": "Yuzu Chamomile",
@@ -546,6 +580,7 @@
   {
     "id": "hollys-0035",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "복숭아 얼그레이",
     "titleEng": "Peach Earl Grey",
@@ -562,6 +597,7 @@
   {
     "id": "hollys-0036",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "홍자몽차",
     "titleEng": "Red Grapefruit Tea",
@@ -578,6 +614,7 @@
   {
     "id": "hollys-0037",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "제주 한라봉 감규차",
     "titleEng": "jeju Hanrabong tangerine tea",
@@ -594,6 +631,7 @@
   {
     "id": "hollys-0038",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "고흥 유자차",
     "titleEng": "Goheung Yuzu Tea",
@@ -610,6 +648,7 @@
   {
     "id": "hollys-0039",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "해남 녹차",
     "titleEng": "Green Tea",
@@ -626,6 +665,7 @@
   {
     "id": "hollys-0040",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "페퍼민트",
     "titleEng": "Peppermint Tea",
@@ -642,6 +682,7 @@
   {
     "id": "hollys-0041",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "캐모마일",
     "titleEng": "Chamomile",
@@ -658,6 +699,7 @@
   {
     "id": "hollys-0042",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "얼그레이",
     "titleEng": "Earl Grey",
@@ -674,6 +716,7 @@
   {
     "id": "hollys-0043",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "팥 듬뿍 컵빙수",
     "titleEng": "Single ServeRed Bean Iced Flakes",
@@ -690,6 +733,7 @@
   {
     "id": "hollys-0044",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "애플망고 듬뿍 컵빙수",
     "titleEng": "Single ServeApple Mango Iced Flakes",
@@ -706,6 +750,7 @@
   {
     "id": "hollys-0045",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기베리 듬뿍 컵빙수",
     "titleEng": "Single ServeStrawberry Iced Flakes",
@@ -722,6 +767,7 @@
   {
     "id": "hollys-0046",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "팥 듬뿍 빙수",
     "titleEng": "Red Bean Iced Flakes",
@@ -738,6 +784,7 @@
   {
     "id": "hollys-0047",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "애플망고 듬뿍 빙수",
     "titleEng": "Apple Mango Iced Flakes",
@@ -754,6 +801,7 @@
   {
     "id": "hollys-0048",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기베리 듬뿍 빙수",
     "titleEng": "Strawberry Iced Flakes",
@@ -770,6 +818,7 @@
   {
     "id": "hollys-0049",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "망고 코코 할리치노",
     "titleEng": "Mango Coconut Hollyccino",
@@ -786,6 +835,7 @@
   {
     "id": "hollys-0050",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "헤이즐넛 초코칩 할리치노",
     "titleEng": "Hazelnut Chocochip Hollyccino",
@@ -802,6 +852,7 @@
   {
     "id": "hollys-0051",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "콜드브루 모카 할리치노",
     "titleEng": "Cold Brew Mocha Hollyccino",
@@ -818,6 +869,7 @@
   {
     "id": "hollys-0052",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "제주 말차 할리치노",
     "titleEng": "Jeju Matcha Hollyccino",
@@ -834,6 +886,7 @@
   {
     "id": "hollys-0053",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "콜드브루 할리치노",
     "titleEng": "Coldbrew Hollyccino",
@@ -850,6 +903,7 @@
   {
     "id": "hollys-0054",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "민트 초코칩 할리치노",
     "titleEng": "Mint Chocochip Hollyccino",
@@ -866,6 +920,7 @@
   {
     "id": "hollys-0055",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 치즈케익 할리치노",
     "titleEng": "Strawberry Cheese Cake Hollyccino",
@@ -882,6 +937,7 @@
   {
     "id": "hollys-0056",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "플레인 요거트 할리치노",
     "titleEng": "Plain Yogurt Hollyccino",
@@ -898,6 +954,7 @@
   {
     "id": "hollys-0057",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "리얼 수박 생과일 주스",
     "titleEng": "Real Fresh Watermelon Juice",
@@ -914,6 +971,7 @@
   {
     "id": "hollys-0058",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "오렌지 자몽 생과일 주스",
     "titleEng": "Orange Grapefruit Juice",
@@ -930,6 +988,7 @@
   {
     "id": "hollys-0059",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "토마토 생과일 주스",
     "titleEng": "Tomato Juice",
@@ -946,6 +1005,7 @@
   {
     "id": "hollys-0060",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "피치 딸기 블렌디드",
     "titleEng": "Peach Strawberry Blended",
@@ -962,6 +1022,7 @@
   {
     "id": "hollys-0061",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "애플망고 스무디",
     "titleEng": "Apple Mango Smoothie",
@@ -978,6 +1039,7 @@
   {
     "id": "hollys-0062",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 스무디",
     "titleEng": "Strawberry Smoothie",
@@ -994,6 +1056,7 @@
   {
     "id": "hollys-0063",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "사과 비트 착즙 주스",
     "titleEng": "Apple Beet Juice",
@@ -1010,6 +1073,7 @@
   {
     "id": "hollys-0064",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "오렌지 당근 착즙 주스",
     "titleEng": "Orange Carrot Juice",
@@ -1026,6 +1090,7 @@
   {
     "id": "hollys-0065",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "청포도 케일 착즙 주스",
     "titleEng": "Green Grape Kale Juice",
@@ -1042,6 +1107,7 @@
   {
     "id": "hollys-0066",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 유자 스파클링",
     "titleEng": "Strawberry Yuzu Sparkling with Sorbet",
@@ -1058,6 +1124,7 @@
   {
     "id": "hollys-0067",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "유자몽 스파클링",
     "titleEng": "Yuzu Grapefruit Sparkling",
@@ -1074,6 +1141,7 @@
   {
     "id": "hollys-0068",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "복숭아 자두 스파클링",
     "titleEng": "Peach Plum Sparkling",
@@ -1090,6 +1158,7 @@
   {
     "id": "hollys-0069",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "청포도 스파클링",
     "titleEng": "Green Grape Sparkling",
@@ -1106,6 +1175,7 @@
   {
     "id": "hollys-0070",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "순수 우유 롤케이크",
     "titleEng": "Milk Roll Cake",
@@ -1121,6 +1191,7 @@
   {
     "id": "hollys-0071",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "소시지 크루아상",
     "titleEng": "Sausage Croissant",
@@ -1136,6 +1207,7 @@
   {
     "id": "hollys-0072",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "헤이즐넛 초코 크루아상",
     "titleEng": "Hazelnut Chocolate Croissant",
@@ -1151,6 +1223,7 @@
   {
     "id": "hollys-0073",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "더블 치즈롤",
     "titleEng": "Double Cheese Roll",
@@ -1166,6 +1239,7 @@
   {
     "id": "hollys-0074",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "동글동글 멜론 돔케이크",
     "titleEng": "Melon Dome Cake",
@@ -1181,6 +1255,7 @@
   {
     "id": "hollys-0075",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "애플망고 듬뿍 라운드",
     "titleEng": "Apple Mango Round Cake",
@@ -1196,6 +1271,7 @@
   {
     "id": "hollys-0076",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "피치 딸기 케이크",
     "titleEng": "Peach Strawberry Cake",
@@ -1211,6 +1287,7 @@
   {
     "id": "hollys-0077",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "요거트 베리 케이크",
     "titleEng": "Yogurt Berry Cake",
@@ -1226,6 +1303,7 @@
   {
     "id": "hollys-0078",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "쿠키앤크림 크레이프",
     "titleEng": "Cookie and Cream Crepe Cake",
@@ -1241,6 +1319,7 @@
   {
     "id": "hollys-0079",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "에그마요 소금빵",
     "titleEng": "Egg Mayo Salt Butter Bread",
@@ -1256,6 +1335,7 @@
   {
     "id": "hollys-0080",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "닭가슴살 프레시 샌드위치",
     "titleEng": "Fresh Chicken Sandwich",
@@ -1271,6 +1351,7 @@
   {
     "id": "hollys-0081",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "햄&치즈 프레시 샌드위치",
     "titleEng": "Fresh Ham&Cheese Sandwich",
@@ -1286,6 +1367,7 @@
   {
     "id": "hollys-0082",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "모카번 베이글",
     "titleEng": "Mocha Bun Bagel",
@@ -1301,6 +1383,7 @@
   {
     "id": "hollys-0083",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "블루베리 베이글",
     "titleEng": "Blueberry Bagel",
@@ -1316,6 +1399,7 @@
   {
     "id": "hollys-0084",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "소금버터 베이글",
     "titleEng": "Salt and Butter Bagel",
@@ -1331,6 +1415,7 @@
   {
     "id": "hollys-0085",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "생크림 가득 카스텔라",
     "titleEng": "Fresh Cream Castella",
@@ -1346,6 +1431,7 @@
   {
     "id": "hollys-0086",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "달달 고구마빵",
     "titleEng": "Sweet Potato Bread",
@@ -1361,6 +1447,7 @@
   {
     "id": "hollys-0087",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "통통 옥수수빵",
     "titleEng": "Sweet Corn Bread",
@@ -1376,6 +1463,7 @@
   {
     "id": "hollys-0088",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "찐찐 감자빵",
     "titleEng": "Potato Bread",
@@ -1391,6 +1479,7 @@
   {
     "id": "hollys-0089",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "치즈 에그 브리오슈",
     "titleEng": "Cheese Egg Brioche",
@@ -1406,6 +1495,7 @@
   {
     "id": "hollys-0090",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 치즈케익 쏘스윗박스",
     "titleEng": "Strawberry Cheesecake So Sweet Box",
@@ -1421,6 +1511,7 @@
   {
     "id": "hollys-0091",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "티라미수 쏘스윗박스",
     "titleEng": "Tiramisu So Sweet box",
@@ -1436,6 +1527,7 @@
   {
     "id": "hollys-0092",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "쿠키앤크림 쏘스윗박스",
     "titleEng": "Cookies and Cream So Sweet box",
@@ -1451,6 +1543,7 @@
   {
     "id": "hollys-0093",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "트리플 초코 케이크",
     "titleEng": "Triple Chocolate Cake",
@@ -1466,6 +1559,7 @@
   {
     "id": "hollys-0094",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "뉴욕 치즈 케이크",
     "titleEng": "New York Cheese Cake",
@@ -1481,6 +1575,7 @@
   {
     "id": "hollys-0095",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "티아라 딸기 생크림",
     "titleEng": "Tiara Strawberry Fresh Cream Cake",
@@ -1496,6 +1591,7 @@
   {
     "id": "hollys-0096",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "티라미수 쏘스윗박스 파티팩",
     "titleEng": "Tiramisu So Sweet box Partypack",
@@ -1511,6 +1607,7 @@
   {
     "id": "hollys-0097",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "쿠키앤크림 쏘스윗박스 파티팩",
     "titleEng": "Cookies and Cream So Sweet Box Partypack",
@@ -1526,6 +1623,7 @@
   {
     "id": "hollys-0098",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "햄치즈 스크램블 토스트",
     "titleEng": "Ham and Cheese Scrambled Eggs Toast",
@@ -1541,6 +1639,7 @@
   {
     "id": "hollys-0099",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "초코칩 콕콕 스콘",
     "titleEng": "Chocolate Chip Scone",
@@ -1556,6 +1655,7 @@
   {
     "id": "hollys-0100",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "클래식 버터 스콘 & 딸기잼",
     "titleEng": "Classic Butter Scone & Strawberry Jam",
@@ -1571,6 +1671,7 @@
   {
     "id": "hollys-0101",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "AOP 버터 크루아상",
     "titleEng": "AOP Butter Croissant",
@@ -1586,6 +1687,7 @@
   {
     "id": "hollys-0102",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "초콜릿 휘낭시에",
     "titleEng": "Chocolate Financier",
@@ -1601,6 +1703,7 @@
   {
     "id": "hollys-0103",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "클래식 휘낭시에",
     "titleEng": "Classic Financier",
@@ -1616,6 +1719,7 @@
   {
     "id": "hollys-0104",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "더블 초코 뚱카롱",
     "titleEng": "Double Chocolate Macaron",
@@ -1631,6 +1735,7 @@
   {
     "id": "hollys-0105",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "딸기 치즈케익 뚱카롱",
     "titleEng": "Strawberry Cheese Cake Macaron",
@@ -1646,6 +1751,7 @@
   {
     "id": "hollys-0106",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "바닐라 딜라이트 뚱카롱",
     "titleEng": "Vanilla Delight Macaron",
@@ -1661,6 +1767,7 @@
   {
     "id": "hollys-0107",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "아이스크림 크로플",
     "titleEng": "Croffle with Ice Cream",
@@ -1676,6 +1783,7 @@
   {
     "id": "hollys-0108",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "트러플 머쉬룸 수프볼",
     "titleEng": "Truffle Mushroom Soup Bowl",
@@ -1691,6 +1799,7 @@
   {
     "id": "hollys-0109",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "수플레 오믈렛 라이스",
     "titleEng": "Souffle Omelet Rice",
@@ -1706,6 +1815,7 @@
   {
     "id": "hollys-0110",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "바삭 불고기 & 트리플 치즈 치킨 퀘사디아",
     "titleEng": "Bulgogi & Triple Cheese Chicken Quesadilla",
@@ -1721,6 +1831,7 @@
   {
     "id": "hollys-0111",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "에그 마요",
     "titleEng": "Egg Mayo Sandwich",
@@ -1736,6 +1847,7 @@
   {
     "id": "hollys-0112",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "페스토 햄 파니니",
     "titleEng": "Pesto Ham Panini",
@@ -1751,6 +1863,7 @@
   {
     "id": "hollys-0113",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "올리브 베이컨 파니니",
     "titleEng": "Olive Bacon Panini",
@@ -1766,6 +1879,7 @@
   {
     "id": "hollys-0114",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "크로크무슈",
     "titleEng": "Croque Monsieur",
@@ -1781,6 +1895,7 @@
   {
     "id": "hollys-0115",
     "brand": "hollys",
+    "brandKR": "할리스커피",
     "format": "png",
     "title": "허니바게트볼",
     "titleEng": "Honey Baguette Bowl",

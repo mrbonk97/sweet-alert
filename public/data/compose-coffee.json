@@ -2,6 +2,7 @@
   {
     "id": "compose-coffee-0001",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["new", "season"],
     "title": "인절미팥빙",
@@ -20,6 +21,7 @@
   {
     "id": "compose-coffee-0003",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["season"],
     "title": "논산에서 온 수박주스",
@@ -38,6 +40,7 @@
   {
     "id": "compose-coffee-0004",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["season"],
     "title": "파인선셋스무디",
@@ -56,6 +59,7 @@
   {
     "id": "compose-coffee-0005",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["season"],
     "title": "하와이안에이드",
@@ -74,6 +78,7 @@
   {
     "id": "compose-coffee-0006",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "쫀득카노",
@@ -92,6 +97,7 @@
   {
     "id": "compose-coffee-0007",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "헨젤과 프레첼",
@@ -110,6 +116,7 @@
   {
     "id": "compose-coffee-0008",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "커피엔 역시 커피빵",
@@ -128,6 +135,7 @@
   {
     "id": "compose-coffee-0009",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "묻고 더블샷으로 가",
@@ -146,6 +154,7 @@
   {
     "id": "compose-coffee-0010",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "라떼는 말차야",
@@ -164,6 +173,7 @@
   {
     "id": "compose-coffee-0011",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "딸기가 부라운 붕어",
@@ -182,6 +192,7 @@
   {
     "id": "compose-coffee-0012",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "아아~ 초코볼~",
@@ -200,6 +211,7 @@
   {
     "id": "compose-coffee-0013",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "멜로드라마 쉐이크",
@@ -218,6 +230,7 @@
   {
     "id": "compose-coffee-0014",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["combo"],
     "title": "붕어는 T입니다",
@@ -236,6 +249,7 @@
   {
     "id": "compose-coffee-0015",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "에스프레소",
@@ -254,6 +268,7 @@
   {
     "id": "compose-coffee-0016",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 아메리카노",
@@ -272,6 +287,7 @@
   {
     "id": "compose-coffee-0017",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 아메리카노",
@@ -290,6 +306,7 @@
   {
     "id": "compose-coffee-0018",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 카페라떼",
@@ -308,6 +325,7 @@
   {
     "id": "compose-coffee-0019",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 아메리카노",
@@ -326,6 +344,7 @@
   {
     "id": "compose-coffee-0020",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 카페라떼",
@@ -344,6 +363,7 @@
   {
     "id": "compose-coffee-0021",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "카푸치노",
@@ -362,6 +382,7 @@
   {
     "id": "compose-coffee-0022",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 바닐라라떼",
@@ -380,6 +401,7 @@
   {
     "id": "compose-coffee-0023",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 바닐라라떼",
@@ -398,6 +420,7 @@
   {
     "id": "compose-coffee-0024",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 헤이즐넛 라떼",
@@ -416,6 +439,7 @@
   {
     "id": "compose-coffee-0025",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 헤이즐넛라떼",
@@ -434,6 +458,7 @@
   {
     "id": "compose-coffee-0026",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 카라멜마끼아또",
@@ -452,6 +477,7 @@
   {
     "id": "compose-coffee-0027",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 카라멜마끼아또",
@@ -470,6 +496,7 @@
   {
     "id": "compose-coffee-0028",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 카페모카",
@@ -488,6 +515,7 @@
   {
     "id": "compose-coffee-0029",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 카페모카",
@@ -506,6 +534,7 @@
   {
     "id": "compose-coffee-0030",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 돌체라떼",
@@ -524,6 +553,7 @@
   {
     "id": "compose-coffee-0031",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 돌체라떼",
@@ -542,6 +572,7 @@
   {
     "id": "compose-coffee-0032",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "흑당카페라떼",
@@ -560,6 +591,7 @@
   {
     "id": "compose-coffee-0033",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "달고나라떼",
@@ -578,6 +610,7 @@
   {
     "id": "compose-coffee-0034",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "아인슈페너라떼",
@@ -596,6 +629,7 @@
   {
     "id": "compose-coffee-0035",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 콜드브루(브라질/에티오피아)",
@@ -614,6 +648,7 @@
   {
     "id": "compose-coffee-0036",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 콜드브루(브라질/에티오피아)",
@@ -632,6 +667,7 @@
   {
     "id": "compose-coffee-0037",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 콜드브루라떼(브라질/에티오피아)",
@@ -650,6 +686,7 @@
   {
     "id": "compose-coffee-0038",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 콜드브루라떼(브라질/에티오피아)",
@@ -668,6 +705,7 @@
   {
     "id": "compose-coffee-0039",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "아인슈페너(브라질)",
@@ -686,6 +724,7 @@
   {
     "id": "compose-coffee-0040",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 디카페인 콜드브루(콜롬비아A/콜롬비아B)",
@@ -704,6 +743,7 @@
   {
     "id": "compose-coffee-0041",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 디카페인 콜드브루(콜롬비아A/콜롬비아B)",
@@ -722,6 +762,7 @@
   {
     "id": "compose-coffee-0042",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 디카페인 콜드브루라떼(콜롬비아A/콜롬비아B)",
@@ -740,6 +781,7 @@
   {
     "id": "compose-coffee-0043",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 디카페인 콜드브루라떼(콜롬비아A/콜롬비아B)",
@@ -758,6 +800,7 @@
   {
     "id": "compose-coffee-0044",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "HOT 디카페인 아메리카노",
@@ -776,6 +819,7 @@
   {
     "id": "compose-coffee-0045",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "ICE 디카페인 아메리카노",
@@ -794,6 +838,7 @@
   {
     "id": "compose-coffee-0046",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "레몬 사샷추",
@@ -812,6 +857,7 @@
   {
     "id": "compose-coffee-0047",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "오렌지 사샷추",
@@ -830,6 +876,7 @@
   {
     "id": "compose-coffee-0048",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "레몬 사샷추 콜드브루(브라질/에티오피아)",
@@ -848,6 +895,7 @@
   {
     "id": "compose-coffee-0049",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "오렌지 사샷추 콜드브루(브라질/에티오피아)",
@@ -866,6 +914,7 @@
   {
     "id": "compose-coffee-0050",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "레몬 사샷추 디카페인 콜드브루(콜롬비아A/콜롬비아B)",
@@ -884,6 +933,7 @@
   {
     "id": "compose-coffee-0051",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "오렌지 사샷추 디카페인 콜드브루(콜롬비아A/콜롬비아B)",
@@ -902,6 +952,7 @@
   {
     "id": "compose-coffee-0052",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 레몬 사샷추",
@@ -920,6 +971,7 @@
   {
     "id": "compose-coffee-0053",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 오렌지 사샷추",
@@ -938,6 +990,7 @@
   {
     "id": "compose-coffee-0054",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "리얼 믹스 커피",
@@ -956,6 +1009,7 @@
   {
     "id": "compose-coffee-0055",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "바나나 리얼 믹스 커피",
@@ -974,6 +1028,7 @@
   {
     "id": "compose-coffee-0056",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 리얼 믹스 커피",
@@ -992,6 +1047,7 @@
   {
     "id": "compose-coffee-0057",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 바나나 리얼 믹스 커피",
@@ -1010,6 +1066,7 @@
   {
     "id": "compose-coffee-0058",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "제로 리얼 믹스 커피",
@@ -1028,6 +1085,7 @@
   {
     "id": "compose-coffee-0059",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "제로 바나나 리얼 믹스 커피",
@@ -1046,6 +1104,7 @@
   {
     "id": "compose-coffee-0060",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 제로 바나나 리얼 믹스커",
@@ -1064,6 +1123,7 @@
   {
     "id": "compose-coffee-0061",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["coffee"],
     "title": "빅포즈 제로 리얼 믹스 커피",
@@ -1082,6 +1142,7 @@
   {
     "id": "compose-coffee-0062",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "생초콜릿라떼",
@@ -1100,6 +1161,7 @@
   {
     "id": "compose-coffee-0063",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "딸기생초콜릿라떼",
@@ -1118,6 +1180,7 @@
   {
     "id": "compose-coffee-0064",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 12곡 곡물라떼",
@@ -1136,6 +1199,7 @@
   {
     "id": "compose-coffee-0065",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 12곡 곡물라떼",
@@ -1154,6 +1218,7 @@
   {
     "id": "compose-coffee-0066",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 17곡 곡물라떼",
@@ -1172,6 +1237,7 @@
   {
     "id": "compose-coffee-0067",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 17곡 곡물라떼",
@@ -1190,6 +1256,7 @@
   {
     "id": "compose-coffee-0068",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 고구마라떼",
@@ -1208,6 +1275,7 @@
   {
     "id": "compose-coffee-0069",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 고구마라떼",
@@ -1226,6 +1294,7 @@
   {
     "id": "compose-coffee-0070",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 더블초코라떼",
@@ -1244,6 +1313,7 @@
   {
     "id": "compose-coffee-0071",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 더블초코라떼",
@@ -1262,6 +1332,7 @@
   {
     "id": "compose-coffee-0072",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 쿠키초코라떼",
@@ -1280,6 +1351,7 @@
   {
     "id": "compose-coffee-0073",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 쿠키초코라떼",
@@ -1298,6 +1370,7 @@
   {
     "id": "compose-coffee-0074",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 그린티라떼",
@@ -1316,6 +1389,7 @@
   {
     "id": "compose-coffee-0075",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 그린티라떼",
@@ -1334,6 +1408,7 @@
   {
     "id": "compose-coffee-0076",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 민트초코오레오라떼",
@@ -1352,6 +1427,7 @@
   {
     "id": "compose-coffee-0077",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 민트초코오레오라떼",
@@ -1370,6 +1446,7 @@
   {
     "id": "compose-coffee-0078",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "흑당밀크(우유)",
@@ -1388,6 +1465,7 @@
   {
     "id": "compose-coffee-0079",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "딸기라떼",
@@ -1406,6 +1484,7 @@
   {
     "id": "compose-coffee-0080",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "블루베리라떼",
@@ -1424,6 +1503,7 @@
   {
     "id": "compose-coffee-0081",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "망고라떼",
@@ -1442,6 +1522,7 @@
   {
     "id": "compose-coffee-0082",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "HOT 밀크티",
@@ -1460,6 +1541,7 @@
   {
     "id": "compose-coffee-0083",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["non-coffee-latte"],
     "title": "ICE 밀크티",
@@ -1478,6 +1560,7 @@
   {
     "id": "compose-coffee-0084",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["shake"],
     "title": "딸기 모찌 밀크쉐이크",
@@ -1496,6 +1579,7 @@
   {
     "id": "compose-coffee-0085",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["shake"],
     "title": "플레인 밀크쉐이크",
@@ -1514,6 +1598,7 @@
   {
     "id": "compose-coffee-0086",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["shake"],
     "title": "캔디소다 밀크쉐이크",
@@ -1532,6 +1617,7 @@
   {
     "id": "compose-coffee-0087",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["shake"],
     "title": "쿠키 밀크쉐이크",
@@ -1550,6 +1636,7 @@
   {
     "id": "compose-coffee-0088",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["shake"],
     "title": "커피밀크쉐이크",
@@ -1568,6 +1655,7 @@
   {
     "id": "compose-coffee-0089",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["season", "shake"],
     "title": "팥절미 밀크쉐이크",
@@ -1586,6 +1674,7 @@
   {
     "id": "compose-coffee-0090",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "리얼초코자바칩프라페",
@@ -1604,6 +1693,7 @@
   {
     "id": "compose-coffee-0091",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "쿠키초코프라페",
@@ -1622,6 +1712,7 @@
   {
     "id": "compose-coffee-0092",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "민트초코오레오프라페",
@@ -1640,6 +1731,7 @@
   {
     "id": "compose-coffee-0093",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "그린티프라페",
@@ -1658,6 +1750,7 @@
   {
     "id": "compose-coffee-0094",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "모카자바칩프라페",
@@ -1676,6 +1769,7 @@
   {
     "id": "compose-coffee-0095",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "딸기스무디",
@@ -1694,6 +1788,7 @@
   {
     "id": "compose-coffee-0096",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "망고스무디",
@@ -1712,6 +1807,7 @@
   {
     "id": "compose-coffee-0097",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "블루베리스무디",
@@ -1730,6 +1826,7 @@
   {
     "id": "compose-coffee-0098",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "유자스무디",
@@ -1748,6 +1845,7 @@
   {
     "id": "compose-coffee-0099",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "플레인요거트스무디",
@@ -1766,6 +1864,7 @@
   {
     "id": "compose-coffee-0100",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "블루베리요거트스무디",
@@ -1784,6 +1883,7 @@
   {
     "id": "compose-coffee-0101",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "딸기요거트스무디",
@@ -1802,6 +1902,7 @@
   {
     "id": "compose-coffee-0102",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["smoothie"],
     "title": "망고요거트스무디",
@@ -1820,6 +1921,7 @@
   {
     "id": "compose-coffee-0103",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "국내산딸기주스",
@@ -1838,6 +1940,7 @@
   {
     "id": "compose-coffee-0104",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "복숭아주스",
@@ -1856,6 +1959,7 @@
   {
     "id": "compose-coffee-0105",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "키위주스",
@@ -1874,6 +1978,7 @@
   {
     "id": "compose-coffee-0106",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "오렌지당근주스",
@@ -1892,6 +1997,7 @@
   {
     "id": "compose-coffee-0107",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "샤인머스캣케일주스",
@@ -1910,6 +2016,7 @@
   {
     "id": "compose-coffee-0108",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "블루레몬 스페셜에이드",
@@ -1928,6 +2035,7 @@
   {
     "id": "compose-coffee-0109",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "청포도 스페셜에이드",
@@ -1946,6 +2054,7 @@
   {
     "id": "compose-coffee-0110",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "패션후르츠 스페셜에이드",
@@ -1964,6 +2073,7 @@
   {
     "id": "compose-coffee-0111",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "자몽에이드",
@@ -1982,6 +2092,7 @@
   {
     "id": "compose-coffee-0112",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "레몬에이드",
@@ -2000,6 +2111,7 @@
   {
     "id": "compose-coffee-0113",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "망고에이드",
@@ -2018,6 +2130,7 @@
   {
     "id": "compose-coffee-0114",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["ade"],
     "title": "유자에이드",
@@ -2036,6 +2149,7 @@
   {
     "id": "compose-coffee-0115",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "디카페인 제로슈가 제로칼로리 아이스티",
@@ -2054,6 +2168,7 @@
   {
     "id": "compose-coffee-0116",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "빅포즈 디카페인 제로슈가 제로칼로리 아이스티",
@@ -2072,6 +2187,7 @@
   {
     "id": "compose-coffee-0117",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "빅포즈 제로슈가 제로칼로리 아이스티",
@@ -2090,6 +2206,7 @@
   {
     "id": "compose-coffee-0118",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "제로슈가 제로칼로리 아이스티",
@@ -2108,6 +2225,7 @@
   {
     "id": "compose-coffee-0119",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "빅포즈 디카페인 아이스티",
@@ -2126,6 +2244,7 @@
   {
     "id": "compose-coffee-0120",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "디카페인 아이스티",
@@ -2144,6 +2263,7 @@
   {
     "id": "compose-coffee-0121",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "빅포즈 아망추",
@@ -2162,6 +2282,7 @@
   {
     "id": "compose-coffee-0122",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "아망추",
@@ -2180,6 +2301,7 @@
   {
     "id": "compose-coffee-0123",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "빅포즈 아샷추",
@@ -2198,6 +2320,7 @@
   {
     "id": "compose-coffee-0124",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "아샷추",
@@ -2216,6 +2339,7 @@
   {
     "id": "compose-coffee-0125",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 빅포즈 아이스티",
@@ -2234,6 +2358,7 @@
   {
     "id": "compose-coffee-0126",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 아이스티",
@@ -2252,6 +2377,7 @@
   {
     "id": "compose-coffee-0127",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 아이스티",
@@ -2270,6 +2396,7 @@
   {
     "id": "compose-coffee-0128",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 자몽허니블랙티",
@@ -2288,6 +2415,7 @@
   {
     "id": "compose-coffee-0129",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 자몽허니블랙티",
@@ -2306,6 +2434,7 @@
   {
     "id": "compose-coffee-0130",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 페퍼민트",
@@ -2324,6 +2453,7 @@
   {
     "id": "compose-coffee-0131",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 페퍼민트",
@@ -2342,6 +2472,7 @@
   {
     "id": "compose-coffee-0132",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 캐모마일",
@@ -2360,6 +2491,7 @@
   {
     "id": "compose-coffee-0133",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 캐모마일",
@@ -2378,6 +2510,7 @@
   {
     "id": "compose-coffee-0134",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 로즈마리",
@@ -2396,6 +2529,7 @@
   {
     "id": "compose-coffee-0135",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 로즈마리",
@@ -2414,6 +2548,7 @@
   {
     "id": "compose-coffee-0136",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 얼그레이",
@@ -2432,6 +2567,7 @@
   {
     "id": "compose-coffee-0137",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 얼그레이",
@@ -2450,6 +2586,7 @@
   {
     "id": "compose-coffee-0138",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 블랙퍼스트",
@@ -2468,6 +2605,7 @@
   {
     "id": "compose-coffee-0139",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 블랙퍼스트",
@@ -2486,6 +2624,7 @@
   {
     "id": "compose-coffee-0140",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 자몽티",
@@ -2504,6 +2643,7 @@
   {
     "id": "compose-coffee-0141",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 자몽티",
@@ -2522,6 +2662,7 @@
   {
     "id": "compose-coffee-0142",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 레몬티",
@@ -2540,6 +2681,7 @@
   {
     "id": "compose-coffee-0143",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 레몬티",
@@ -2558,6 +2700,7 @@
   {
     "id": "compose-coffee-0144",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "HOT 유자티",
@@ -2576,6 +2719,7 @@
   {
     "id": "compose-coffee-0145",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["tea"],
     "title": "ICE 유자티",
@@ -2594,6 +2738,7 @@
   {
     "id": "compose-coffee-0146",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "브라운 붕어 딕만스 쿠키",
@@ -2612,6 +2757,7 @@
   {
     "id": "compose-coffee-0147",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "미니 프레첼",
@@ -2630,6 +2776,7 @@
   {
     "id": "compose-coffee-0148",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "쫀득쿠키",
@@ -2648,6 +2795,7 @@
   {
     "id": "compose-coffee-0149",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코 마시멜로",
@@ -2666,6 +2814,7 @@
   {
     "id": "compose-coffee-0150",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "크로플",
@@ -2684,6 +2833,7 @@
   {
     "id": "compose-coffee-0151",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코볼",
@@ -2702,6 +2852,7 @@
   {
     "id": "compose-coffee-0152",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "말차팝콘",
@@ -2720,6 +2871,7 @@
   {
     "id": "compose-coffee-0153",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "더블샷 카라멜 팝콘",
@@ -2738,6 +2890,7 @@
   {
     "id": "compose-coffee-0154",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "버터팝콘",
@@ -2756,6 +2909,7 @@
   {
     "id": "compose-coffee-0155",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "햄치즈샌드위치",
@@ -2774,6 +2928,7 @@
   {
     "id": "compose-coffee-0156",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "허니 버터 브레드",
@@ -2792,6 +2947,7 @@
   {
     "id": "compose-coffee-0157",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "슈크림 미니 붕어빵",
@@ -2810,6 +2966,7 @@
   {
     "id": "compose-coffee-0158",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "팥 미니 붕어빵",
@@ -2828,6 +2985,7 @@
   {
     "id": "compose-coffee-0159",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "커피콩빵",
@@ -2846,6 +3004,7 @@
   {
     "id": "compose-coffee-0160",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "소금빵",
@@ -2864,6 +3023,7 @@
   {
     "id": "compose-coffee-0161",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "국산 감자빵(영베이커리)",
@@ -2882,6 +3042,7 @@
   {
     "id": "compose-coffee-0162",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "국산 고구마빵(영베이커리)",
@@ -2900,6 +3061,7 @@
   {
     "id": "compose-coffee-0163",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "국산 감자빵(농담꾼)",
@@ -2918,6 +3080,7 @@
   {
     "id": "compose-coffee-0164",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "국산 고구마빵(농담꾼)",
@@ -2936,6 +3099,7 @@
   {
     "id": "compose-coffee-0165",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "폼미쳤도넛 - 커스터드",
@@ -2954,6 +3118,7 @@
   {
     "id": "compose-coffee-0166",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "폼미쳤도넛 - 크림치즈",
@@ -2972,6 +3137,7 @@
   {
     "id": "compose-coffee-0167",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "시나몬 크룽지",
@@ -2990,6 +3156,7 @@
   {
     "id": "compose-coffee-0168",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "메이플 크룽지",
@@ -3008,6 +3175,7 @@
   {
     "id": "compose-coffee-0169",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "오트밀 생크림 롤케이크",
@@ -3026,6 +3194,7 @@
   {
     "id": "compose-coffee-0170",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코 생크림 롤케이크",
@@ -3044,6 +3213,7 @@
   {
     "id": "compose-coffee-0171",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "화이트 생크림 롤케이크",
@@ -3062,6 +3232,7 @@
   {
     "id": "compose-coffee-0172",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "크루아상 와플",
@@ -3080,6 +3251,7 @@
   {
     "id": "compose-coffee-0173",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "시나몬카라멜와플",
@@ -3098,6 +3270,7 @@
   {
     "id": "compose-coffee-0174",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "오레오생크림와플",
@@ -3116,6 +3289,7 @@
   {
     "id": "compose-coffee-0175",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "사과생크림와플",
@@ -3134,6 +3308,7 @@
   {
     "id": "compose-coffee-0176",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "브리틀 밀크초콜릿",
@@ -3152,6 +3327,7 @@
   {
     "id": "compose-coffee-0177",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "달고나 다크초콜릿",
@@ -3170,6 +3346,7 @@
   {
     "id": "compose-coffee-0178",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "달고나 녹차초콜릿",
@@ -3188,6 +3365,7 @@
   {
     "id": "compose-coffee-0179",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "까망베르치즈 프로틴쿠키",
@@ -3206,6 +3384,7 @@
   {
     "id": "compose-coffee-0180",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "체다치즈 프로틴쿠키",
@@ -3224,6 +3403,7 @@
   {
     "id": "compose-coffee-0181",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "바닐라마카롱",
@@ -3242,6 +3422,7 @@
   {
     "id": "compose-coffee-0182",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "모카마카롱",
@@ -3260,6 +3441,7 @@
   {
     "id": "compose-coffee-0183",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "산딸기마카롱",
@@ -3278,6 +3460,7 @@
   {
     "id": "compose-coffee-0184",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "초코마카롱",
@@ -3296,6 +3479,7 @@
   {
     "id": "compose-coffee-0185",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "카라멜마카롱",
@@ -3314,6 +3498,7 @@
   {
     "id": "compose-coffee-0186",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "블루베리 마카롱",
@@ -3332,6 +3517,7 @@
   {
     "id": "compose-coffee-0187",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "마쉬멜로우 코코넛 쿠키",
@@ -3350,6 +3536,7 @@
   {
     "id": "compose-coffee-0188",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "다크초코칩쿠키",
@@ -3368,6 +3555,7 @@
   {
     "id": "compose-coffee-0189",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "더블초코칩쿠키",
@@ -3386,6 +3574,7 @@
   {
     "id": "compose-coffee-0190",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "오트밀크랜베리쿠키",
@@ -3404,6 +3593,7 @@
   {
     "id": "compose-coffee-0191",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "피스타치오 아몬드쿠키",
@@ -3422,6 +3612,7 @@
   {
     "id": "compose-coffee-0192",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "티라미수",
@@ -3440,6 +3631,7 @@
   {
     "id": "compose-coffee-0193",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "뉴욕치즈케이크",
@@ -3458,6 +3650,7 @@
   {
     "id": "compose-coffee-0194",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "폭신한 생크림 카스테라",
@@ -3476,6 +3669,7 @@
   {
     "id": "compose-coffee-0195",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "슈크림 카스테라",
@@ -3494,6 +3688,7 @@
   {
     "id": "compose-coffee-0196",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "블랙 벨벳 케이크",
@@ -3512,6 +3707,7 @@
   {
     "id": "compose-coffee-0197",
     "brand": "compose-coffee",
+    "brandKR": "컴포즈커피",
     "format": "jpg",
     "category": ["dessert"],
     "title": "레드벨벳 케이크",

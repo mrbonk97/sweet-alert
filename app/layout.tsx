@@ -10,7 +10,7 @@ const notoSans = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: "단거주의보 | 음료·디저트 당류 분석 서비스",
+  title: "단거주의보",
   description: "카페 메뉴 속 당류 함량을 한눈에! 디저트와 음료의 당 정보를 쉽게 확인하세요.",
   keywords: [
     "단거주의보",
