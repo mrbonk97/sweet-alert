@@ -11,8 +11,8 @@ export function HomeSearchSection() {
 
   return (
     <Form
-      className="mt-5 p-5 pb-20 rounded-lg bg-custom-g-2"
-      action={"/menu"}
+      className="mt-4 p-4 pb-12 lg:pb-20 rounded-lg bg-custom-g-2"
+      action={"/menus"}
       onFocus={() => setIsFocused(true)}
       onBlur={(e) => {
         const nextFocused = e.relatedTarget as HTMLElement | null;
@@ -35,8 +35,8 @@ export function HomeSearchSection() {
           name="q"
           value={q}
           onChange={(e) => setQ(e.target.value)}
-          placeholder="상품을 검색해보세요"
-          className="p-5 pl-12 w-full border rounded-lg bg-background"
+          placeholder="메뉴 이름을 검색해보세요"
+          className="p-4 pl-12 w-full border rounded-lg bg-background"
         />
       </div>
     </Form>

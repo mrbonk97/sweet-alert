@@ -108,7 +108,7 @@ export const COFFEE_BRANDS = [
       },
       {
         id: "coffee",
-        title: "커피 · 더치",
+        title: "커피·더치",
       },
       {
         id: "non-coffee-latte",
@@ -116,7 +116,7 @@ export const COFFEE_BRANDS = [
       },
       {
         id: "smoothie",
-        title: "프라페 · 스무디",
+        title: "프라페·스무디",
       },
       {
         id: "shake",
@@ -124,7 +124,7 @@ export const COFFEE_BRANDS = [
       },
       {
         id: "ade",
-        title: "에이드 · 주스",
+        title: "에이드·주스",
       },
       {
         id: "tea",

@@ -10,7 +10,7 @@ export async function MenuMenuSection({ q, menus }: Props) {
 
   return (
     <section className="mt-4">
-      <h2 className="text-2xl font-semibold opacity-80">{title}</h2>
+      <h2 className="text-lg sm:text-2xl font-semibold opacity-80">{title}</h2>
       {menus.length == 0 && (
         <p className="my-40 text-lg font-semibold opacity-80 text-center">
           검색 결과가 없습니다...

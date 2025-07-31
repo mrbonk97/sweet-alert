@@ -36,7 +36,7 @@ export function MenuSearchSection() {
           value={q}
           onChange={(e) => setQ(e.target.value)}
           placeholder="상품을 검색해보세요"
-          className="p-5 pl-12 w-full border rounded-lg bg-background"
+          className="p-4 pl-12 w-full border rounded-lg bg-background"
         />
       </div>
     </Form>

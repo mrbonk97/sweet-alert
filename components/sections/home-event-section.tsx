@@ -30,26 +30,28 @@ export async function HomeEventSection() {
   await fetchAllBingsu();
 
   return (
-    <section className="mt-10">
+    <section className="mt-16">
       <h2 className="text-2xl font-bold opacity-80">
-        <Link href={"/menu?q=빙수"} className="hover:underline underline-offset-4">
+        <Link href={"/menus?q=빙수"} className="hover:underline underline-offset-4">
           빙수 특집
         </Link>
       </h2>
-      <ul className="mt-5 grid grid-cols-2 lg:grid-cols-4">
+      <ul className="mt-4 grid grid-cols-2 lg:grid-cols-4">
         {bingsu.map((item, idx) => {
-          const isSmBorderR = idx % 2 === 0; // sm: 0, 2, 4, ... (1-based 홀수)
-          const isLgBorderR = idx % 4 !== 3; // lg: 0,1,2,4,5,6,... (1-based %4 !== 0)
+          const isSmBorderR = idx % 2 === 0;
+          const isLgBorderR = idx % 4 !== 3;
 
           return (
-            <li key={`fav-${item.id}`} className="group">
+            <li key={`fav-${item.id}`}>
               <Link
-                href={`/cafes/${item.id}`}
-                className={`block p-4 border-b hover:bg-custom-g-3
+                href={`/menus?q=${item.title}`}
+                className={`block p-4 border-b hover:bg-secondary
+                ${idx < 2 ? "border-t" : ""}
+                ${idx >= 2 && idx < 4 ? "lg:border-t" : ""}
                 ${isSmBorderR ? "border-r" : ""}
                 ${isLgBorderR ? "lg:border-r" : "lg:border-r-0"}`}
               >
-                <p className="text-lg font-semibold opacity-80 group-hover:underline underline-offset-2">
+                <p className="text-lg font-semibold opacity-80">
                   {COFFEE_CODE[item.brand as keyof typeof COFFEE_CODE]}
                 </p>
                 <Image
@@ -57,10 +59,12 @@ export async function HomeEventSection() {
                   alt={item.title}
                   height={512}
                   width={512}
-                  className="mt-2 mx-auto h-60 w-full object-contain"
+                  className="mt-2 mx-auto h-36 lg:h-52 w-full object-contain"
                 />
-                <h4 className="mt-2 text-lg font-semibold text-center opacity-80">{item.title}</h4>
-                <p className="mt-2 text-lg font-semibold text-center opacity-70">{item.sugar}</p>
+                <h4 className="mt-2 font-semibold text-center opacity-80 overflow-hidden text-ellipsis whitespace-nowrap">
+                  {item.title}
+                </h4>
+                <p className="mt-2 text-sm font-semibold text-center opacity-70">{item.sugar}</p>
               </Link>
             </li>
           );

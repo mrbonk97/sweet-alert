@@ -10,7 +10,7 @@ interface Props {
 
 export function CafeHeaderSection({ id, icon, title, titleEng }: Props) {
   return (
-    <header className="p-4 flex gap-5 rounded-lg bg-custom-g-2">
+    <header className="p-4 flex gap-4 rounded-lg bg-custom-g-2">
       <Link href={`/cafes/${id}`}>
         <Image
           src={icon}

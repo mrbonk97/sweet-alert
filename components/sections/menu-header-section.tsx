@@ -19,8 +19,8 @@ export function MenuHeaderSection() {
           </button>
           <input
             name="q"
-            placeholder="상품을 검색해보세요"
-            className="p-5 pl-12 w-full border rounded-lg bg-background"
+            placeholder="메뉴 이름을 검색해보세요"
+            className="p-4 pl-12 w-full border rounded-lg bg-background"
           />
         </div>
       </Form>
