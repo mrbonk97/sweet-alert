@@ -1,38 +1,38 @@
-import { HomeCafeSection } from "@/components/sections/home-cafe-section";
-import { HomeEventSection } from "@/components/sections/home-event-section";
-import { HomeSearchSection } from "@/components/sections/home-search-section";
-import { orbitFont } from "@/lib/fonts";
 import Image from "next/image";
+import Link from "next/link";
+import { COFFEE_BRANDS } from "@/constants/constants";
+import { HomeHeader } from "@/components/sections/home-header";
 
-export default async function Home() {
+function Home() {
   return (
-    <main className="mt-12 p-2 mx-auto max-w-7xl">
-      <section className="pb-4 border-b-1 border-b-custom-2/50">
-        <div className="flex items-center justify-evenly">
-          <Image
-            src={`/images/dessert-1.svg`}
-            alt="dessert-1"
-            height={384}
-            width={384}
-            className="w-20 sm:w-44 md:w-56 lg:w-80 aspect-square no-drag"
-          />
-          <h1
-            className={`text-custom-g-1 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-widest text-center ${orbitFont.className}`}
-          >
-            단거주의보
-          </h1>
-          <Image
-            src={`/images/dessert-2.svg`}
-            alt="dessert-2"
-            height={384}
-            width={384}
-            className="w-20 sm:w-44 md:w-56 lg:w-80 aspect-square no-drag"
-          />
-        </div>
+    <main className="pt-16 p-4 mx-auto max-w-7xl">
+      <HomeHeader />
+      <section className="mt-4">
+        <h2 className="text-lg sm:text-2xl font-semibold opacity-70">
+          카페 & 디저트
+        </h2>
+        <ul className="mt-4 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2 sm:gap-4">
+          {COFFEE_BRANDS.map((item) => (
+            <li key={item.id}>
+              <Link
+                href={`/cafes/${item.id}`}
+                className="block p-4 rounded-lg bg-custom-g-3 hover:opacity-80 duration-150"
+              >
+                <h4 className="text-xl font-bold opacity-80">{item.title}</h4>
+                <Image
+                  src={item.icon}
+                  alt={item.title}
+                  height={160}
+                  width={160}
+                  className="my-10 mx-auto h-40 w-40 object-contain"
+                />
+              </Link>
+            </li>
+          ))}
+        </ul>
       </section>
-      <HomeSearchSection />
-      <HomeCafeSection />
-      <HomeEventSection />
     </main>
   );
 }
+
+export default Home;

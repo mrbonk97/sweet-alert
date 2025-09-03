@@ -4,7 +4,7 @@ import { orbitFont } from "@/lib/fonts";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-export function CafeHomeHeader() {
+export function HomeHeader() {
   const [id, setId] = useState(1);
 
   useEffect(() => {
@@ -13,8 +13,10 @@ export function CafeHomeHeader() {
 
   return (
     <header className="p-4 rounded-lg bg-custom-g-2">
-      <h1 className={`text-2xl md:text-4xl font-black opacity-70 ${orbitFont.className}`}>
-        Cafe(카페)
+      <h1
+        className={`text-2xl md:text-4xl font-black opacity-70 ${orbitFont.className}`}
+      >
+        Sweet Alert(단거주의보)
       </h1>
       <Image
         src={`/images/dessert-${id}.svg`}

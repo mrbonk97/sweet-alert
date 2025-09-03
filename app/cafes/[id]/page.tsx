@@ -45,9 +45,14 @@ async function CafeIdPage({ params, searchParams }: Props) {
   if (category) menu = menu.filter((item) => item.category.includes(category));
 
   return (
-    <main className="mt-12 p-4 mx-auto max-w-7xl">
-      <CafeHeaderSection id={id} icon={brand.icon} title={brand.title} titleEng={brand.titleEng} />
-      <Form action={`/cafes/${id}`} className="relative mt-4 h-12 md:h-16">
+    <main className="pt-16 p-4 mx-auto max-w-7xl">
+      <CafeHeaderSection
+        id={id}
+        icon={brand.icon}
+        title={brand.title}
+        titleEng={brand.titleEng}
+      />
+      <Form action={`/cafes/${id}`} className="relative mt-4">
         <button
           type="submit"
           className="p-2 absolute top-1/2 -translate-y-1/2 left-2 rounded-lg hover:bg-secondary"
@@ -59,10 +64,15 @@ async function CafeIdPage({ params, searchParams }: Props) {
           name="q"
           autoComplete="off"
           placeholder="상품 검색"
-          className="pl-12 pr-2 h-full w-full border rounded-lg"
+          className="pl-14 pr-2 p-4 w-full border rounded-lg font-medium"
         />
       </Form>
-      <CafeCategorySection id={id} q={q} category={category} categories={brand.categories} />
+      <CafeCategorySection
+        id={id}
+        q={q}
+        category={category}
+        categories={brand.categories}
+      />
       <CafeMenuSection menu={menu} />
     </main>
   );

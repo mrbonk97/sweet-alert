@@ -15,12 +15,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: "https://https://sweet-alert-ten.vercel.app/menus",
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.5,
-    },
-    {
       url: "https://https://sweet-alert-ten.vercel.app/notice",
       lastModified: new Date(),
       changeFrequency: "yearly",
