@@ -1,370 +1,179 @@
-export const COFFEE_BRANDS = [
+export const CAFES = [
   {
-    rank: 1,
-    id: "starbucks",
-    title: "스타벅스",
-    titleEng: "Starbucks",
-    icon: "/logos/starbucks.svg",
-    categories: [
-      {
-        id: "cold-brew",
-        title: "콜드브루",
-      },
-      {
-        id: "brewed",
-        title: "브루드 커피",
-      },
-      {
-        id: "espresso",
-        title: "에스프레소",
-      },
-      {
-        id: "frappuccino",
-        title: "프라푸치노",
-      },
-      {
-        id: "blended",
-        title: "블렌디드",
-      },
-      {
-        id: "refresher",
-        title: "리프레셔",
-      },
-      {
-        id: "fizzio",
-        title: "피지오",
-      },
-      {
-        id: "tea",
-        title: "티(티바나)",
-      },
-      {
-        id: "etc",
-        title: "기타",
-      },
-      {
-        id: "juice",
-        title: "주스(병음료)",
-      },
-    ],
-  },
-  {
-    rank: 2,
-    id: "mega-coffee",
-    title: "메가커피",
-    titleEng: "Mega MGC Coffee",
-    icon: "/logos/mega-coffee.svg",
-    categories: [
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 3,
-    id: "paiks-coffee",
-    title: "빽다방",
-    titleEng: "PAIK’S COFFEE",
-    icon: "/logos/paiks-coffee.svg",
-    categories: [
-      {
-        id: "coffee",
-        title: "커피",
-      },
-      {
-        id: "beverage",
-        title: "음료",
-      },
-
-      {
-        id: "ccino",
-        title: "빽스치노",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 4,
-    id: "compose-coffee",
-    title: "컴포즈커피",
-    titleEng: "COMPOSE COFFEE",
-    icon: "/logos/compose-coffee.svg",
-    categories: [
-      {
-        id: "combo",
-        title: "컴포즈 콤보",
-      },
-      {
-        id: "season",
-        title: "시즌한정",
-      },
-      {
-        id: "coffee",
-        title: "커피·더치",
-      },
-      {
-        id: "non-coffee-latte",
-        title: "논커피 라떼",
-      },
-      {
-        id: "smoothie",
-        title: "프라페·스무디",
-      },
-      {
-        id: "shake",
-        title: "밀크쉐이크",
-      },
-      {
-        id: "ade",
-        title: "에이드·주스",
-      },
-      {
-        id: "tea",
-        title: "티",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 5,
-    id: "twosome",
-    title: "투썸플레이스",
-    titleEng: "A TWOSOME PLACE",
-    icon: "/logos/twosome.svg",
-    categories: [
-      {
-        id: "coffee",
-        title: "커피",
-      },
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "tea",
-        title: "티/티라떼",
-      },
-      {
-        id: "icecream",
-        title: "아이스크림/빙수",
-      },
-      {
-        id: "whole-cake",
-        title: "홀케이크",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-      {
-        id: "food",
-        title: "푸드",
-      },
-    ],
-  },
-  {
-    rank: 6,
     id: "ediya",
     title: "이디야 커피",
     titleEng: "EDIYA COFFEE",
-    icon: "/logos/ediya-coffee.svg",
-    categories: [
+    category: [
       {
         id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-      {
-        id: "deli",
-        title: "델리",
-      },
-      {
-        id: "rte",
-        title: "RTE",
-      },
-    ],
-  },
-  {
-    rank: 7,
-    id: "pascucci",
-    title: "파스쿠찌",
-    titleEng: "CAFFÉ PASCUCCI",
-    icon: "/logos/pascucci.svg",
-    categories: [
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 8,
-    id: "coffee-bean",
-    title: "커피빈",
-    titleEng: "The Coffee Bean & Tea Leaf",
-    icon: "/logos/coffee-bean.svg",
-    categories: [
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 9,
-    id: "paul-basset",
-    title: "폴바셋",
-    titleEng: "Paul Bassett",
-    icon: "/logos/paul-bassett.svg",
-    categories: [
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 10,
-    id: "the-venti",
-    title: "더 벤티",
-    titleEng: "The Venti",
-    icon: "/logos/the-venti.svg",
-    categories: [
-      {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
-      },
-    ],
-  },
-  {
-    rank: 11,
-    id: "hollys",
-    title: "할리스 커피",
-    titleEng: "HOLLY",
-    icon: "/logos/hollys.svg",
-    categories: [
-      {
-        id: "coffee",
-        title: "커피",
-      },
-      {
-        id: "beverage",
-        title: "라떼·초콜릿·티",
-      },
-      {
-        id: "ccino",
-        title: "할리치노·빙수",
-      },
-      {
-        id: "juice",
-        title: "스무디·주스",
-      },
-      {
-        id: "sparkling",
-        title: "스파클링",
+        code: "7",
+        name: "음료",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "coffee", name: "COFFEE", code: "12" },
+          { id: "beverage", name: "BEVERAGE", code: "13" },
+          { id: "tea", name: "BLENDING TEA", code: "14" },
+          { id: "flatccino", name: "FLATCCINO", code: "15" },
+          { id: "shake", name: "SHAKE & ADE", code: "16" },
+          { id: "bingsu", name: "ICE FLAKES", code: "71" },
+          { id: "rtd", name: "RTD", code: "83" },
+          { id: "ice-cream", name: "ICE CREAM", code: "154" },
+          { id: "decaf", name: "DECAF", code: "155" },
+          { id: "topping", name: "TOPPING", code: "159" },
+        ],
       },
       {
         id: "food",
-        title: "푸드",
+        code: "8",
+        name: "푸드",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "bread", name: "BREAD", code: "17" },
+          { id: "dessert", name: "DESSERT", code: "18" },
+          { id: "deli", name: "DELI", code: "19" },
+          { id: "rte", name: "RTE", code: "128" },
+        ],
       },
     ],
   },
   {
-    rank: 12,
-    id: "angelinus",
-    title: "엔젤리너스",
-    titleEng: "ANGELINUS",
-    icon: "/logos/angle-in-us.svg",
-    categories: [
+    id: "mega-coffee",
+    title: "메가MGC커피",
+    titleEng: "MEGA MGC COFFEE",
+    category: [
       {
         id: "beverage",
-        title: "음료",
+        code: "1",
+        name: "음료",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "coffee", name: "커피", code: "1" },
+          { id: "tea", name: "티", code: "2" },
+          { id: "ade", name: "에이드&주스", code: "3" },
+          { id: "smoothie", name: "스무디&프라페", code: "4" },
+          { id: "decaf", name: "디카페인", code: "5" },
+          { id: "beverage", name: "음료", code: "6" },
+          { id: "new", name: "신상품", code: "9" },
+        ],
       },
       {
-        id: "dessert",
-        title: "디저트",
+        id: "food",
+        code: "2",
+        name: "푸드",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "dessert", name: "디저트", code: "7" },
+          { id: "new", name: "신상품", code: "10" },
+        ],
       },
     ],
   },
   {
-    rank: 19,
-    id: "cafebene",
-    title: "카페베네",
-    titleEng: "CAFFE BENE",
-    icon: "/logos/cafe-bene.svg",
-    categories: [
+    id: "compose-coffee",
+    title: "컴포즈커피",
+    titleEng: "Compose Coffee",
+    category: [
       {
-        id: "beverage",
-        title: "음료",
-      },
-      {
-        id: "dessert",
-        title: "디저트",
+        id: "menu",
+        code: null,
+        name: "메뉴",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "combo", name: "컴포즈콤보", code: "207002" },
+          { id: "season", name: "시즌한전", code: "192677" },
+          { id: "coffee", name: "커피·더치", code: "185" },
+          { id: "non-coffee", name: "논커피 라떼", code: "187" },
+          { id: "smoothie", name: "프라페·스무디", code: "192" },
+          { id: "shake", name: "밀크쉐이크", code: "193" },
+          { id: "ade", name: "에이드·주스", code: "188" },
+          { id: "ade", name: "티", code: "191" },
+          { id: "dessert", name: "디저트", code: "339" },
+        ],
       },
     ],
   },
   {
-    rank: 22,
-    id: "droptop",
-    title: "카페 드롭탑",
-    titleEng: "Café DROPTOP",
-    icon: "/logos/drop-top.svg",
-    categories: [
+    id: "paiks-coffee",
+    title: "빽다방",
+    titleEng: "Paiks Coffee",
+    category: [
+      {
+        id: "menu",
+        code: null,
+        name: "메뉴",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "new", name: "신메뉴", code: "menu_new" },
+          { id: "coffee", name: "커피", code: "menu_coffee" },
+          { id: "beverage", name: "음료", code: "menu_drink" },
+          { id: "dessert", name: "아이스크림/디저트", code: "menu_dessert" },
+          { id: "paiksccino", name: "빽스치노", code: "menu_ccino" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "starbucks",
+    title: "스타벅스",
+    titleEng: "Starbucks",
+    category: [
       {
         id: "beverage",
-        title: "음료",
+        code: null,
+        name: "음료",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "cold-brew", name: "콜드 브루 커피", code: "W0000171.js" },
+          { id: "brewed", name: "브루드 커피", code: "W0000060.js" },
+          { id: "espresso", name: "에스프레소", code: "W0000003.js" },
+          { id: "frapuccion", name: "프라푸치노", code: "W0000004.js" },
+          { id: "blended", name: "블렌디드", code: "W0000005.js" },
+          { id: "refresher", name: "스타벅스 리프레셔", code: "W0000422.js" },
+          { id: "fizzio", name: "스타벅스 피지오", code: "W0000061.js" },
+          { id: "tea", name: "티(티바나)", code: "W0000075.js" },
+          { id: "etc", name: "기타 제조 음료", code: "W0000053.js" },
+          { id: "rtd", name: "스타벅스 주스(병음료)", code: "W0000062.js" },
+        ],
       },
       {
-        id: "dessert",
-        title: "디저트",
+        id: "food",
+        code: null,
+        name: "푸드",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "bread", name: "브레드", code: "W0000013.js" },
+          { id: "cake", name: "케이크", code: "W0000032.js" },
+          { id: "sandwich", name: "샌드위치 & 샐러드", code: "W0000033.js" },
+          { id: "warm", name: "따듯한 푸드", code: "W0000054.js" },
+          { id: "fruit", name: "과일 & 요거트", code: "W0000055.js" },
+          { id: "snack", name: "스낵 & 미니 디저트", code: "W0000056.js" },
+          { id: "ice-cream", name: "아이스크림", code: "W0000064.js" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "the-venti",
+    title: "더 벤티",
+    titleEng: "The Venti",
+    category: [
+      {
+        id: "menu",
+        code: null,
+        name: "메뉴",
+        sub: [
+          { id: "all", name: "전체", code: null },
+          { id: "new", name: "신메뉴", code: "1" },
+          { id: "coffee", name: "커피", code: "2" },
+          { id: "decaf", name: "디카페인", code: "3" },
+          { id: "ice-blended", name: "아이스 블렌디드", code: "4" },
+          { id: "juice", name: "주스/에이드", code: "5" },
+          { id: "tea", name: "버블티/티", code: "6" },
+          { id: "beverage", name: "베버리지", code: "7" },
+          { id: "rtd", name: "사이드메뉴/RTD", code: "8" },
+          { id: "pet", name: "반려동물", code: "9" },
+        ],
       },
     ],
   },
 ];
-
-export const COFFEE_CODE = {
-  starbucks: "스타벅스",
-  "mega-coffee": "메가커피",
-  "paiks-coffee": "빽다방",
-  "compose-coffee": "컴포즈커피",
-  twosome: "투썸플레이스",
-  ediya: "이디야 커피",
-  pascucci: "파스쿠찌",
-  "coffee-bean": "커피빈",
-  "paul-basset": "폴바셋",
-  "the-venti": "더 벤티",
-  hollys: "할리스 커피",
-  angelinus: "엔젤리너스",
-  cafebene: "카페베네",
-  droptop: "카페 드롭탑",
-};
