@@ -1,13 +1,8 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Noto_Sans_KR } from "next/font/google";
+import { pretendard } from "@/lib/fonts";
 import { Topnav } from "@/components/nav/top-nav";
 import { Footer } from "@/components/nav/footer";
-import { ThemeProvider } from "@/components/theme-provider";
-
-const notoSans = Noto_Sans_KR({
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
   title: "단거주의보",
@@ -55,21 +50,16 @@ interface Props {
   children: Readonly<React.ReactNode>;
 }
 
-export default function RootLayout({ children }: Props) {
+function RootLayout({ children }: Props) {
   return (
-    <html lang="ko" suppressHydrationWarning>
-      <body className={`${notoSans.className} antialiased`}>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
-          <Topnav />
-          {children}
-          <Footer />
-        </ThemeProvider>
+    <html lang="ko">
+      <body className={`antialiased ${pretendard.className}`}>
+        <Topnav />
+        {children}
+        <Footer />
       </body>
     </html>
   );
 }
+
+export default RootLayout;

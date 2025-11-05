@@ -42,7 +42,6 @@
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
 
-  --color-custom-1: var(--custom-1);
   --color-custom-g-1: var(--custom-g-1);
   --color-custom-g-2: var(--custom-g-2);
   --color-custom-g-3: var(--custom-g-3);
@@ -123,8 +122,8 @@
 
   --custom-1: oklch(0.9373 0.1525 105.36);
   --custom-g-1: oklch(0.6642 0.1309 135.1);
-  --custom-g-2: oklch(0.269 0 0);
-  --custom-g-3: oklch(0.269 0 0);
+  --custom-g-2: oklch(0.8659 0.0517 134.47);
+  --custom-g-3: oklch(0.9661 0.0135 134.9);
 }
 
 @layer base {
@@ -136,13 +135,19 @@
   }
 }
 
+html,
+body {
+  height: 100%;
+}
+
 button {
   cursor: pointer;
 }
 
-.no-drag {
-  -webkit-user-drag: none;
-  -khtml-user-drag: none;
-  -moz-user-drag: none;
-  -o-user-drag: none;
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
