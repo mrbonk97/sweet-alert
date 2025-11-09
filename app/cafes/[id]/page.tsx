@@ -4,9 +4,9 @@ import Form from "next/form";
 import { orbit } from "@/lib/fonts";
 import { Search } from "lucide-react";
 import { getCafeById } from "@/lib/utils";
-import { getMenusByCafeId } from "@/service/menu-service";
-import { PagingSection } from "@/components/paging-section";
 import { Metadata } from "next";
+import { getMenusByCafeId } from "@/service/menu-service";
+import { MenuList } from "@/components/menu-list";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -24,15 +24,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 async function CafesIdPage({ params, searchParams }: Props) {
   const { id } = await params;
-  const { category, sub, q, page } = await searchParams;
+  const { category, sub, q } = await searchParams;
 
   const cafe = getCafeById(id);
 
   const curCategory = cafe.category.find((c) => c.id === category) ?? cafe.category[0];
   const curSub = curCategory.sub.find((s) => s.id === sub) ?? curCategory.sub[0];
-  const curPage = isNaN(Number(page)) ? 1 : Number(page);
 
-  const { items, totalPage } = await getMenusByCafeId(id, curCategory.id, curSub.id, q, curPage);
+  const _menus = await getMenusByCafeId(id);
+  const menus = _menus.filter((m) => {
+    if (q) return m.title?.includes(q);
+    return m.category === curCategory.id && m.sub === curSub.id;
+  });
 
   return (
     <main className="pt-16 p-4 mx-auto max-w-6xl">
@@ -73,7 +76,11 @@ async function CafesIdPage({ params, searchParams }: Props) {
           >
             <Search size={18} className="text-custom-g-1" />
           </button>
-          <input name="q" className="p-1 pl-8 w-full rounded-lg border" />
+          <input
+            name="q"
+            className="p-1 pl-8 w-full rounded-lg border"
+            placeholder="검색어를 입력해주세요"
+          />
         </Form>
       </nav>
 
@@ -95,38 +102,11 @@ async function CafesIdPage({ params, searchParams }: Props) {
         </ul>
       </nav>
 
-      {/* 실제 메뉴 영역 */}
-      <section className="mt-20">
-        <ul className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-          {items.map((item) => {
-            const nutrition = JSON.parse(item.NUTRITION);
-
-            return (
-              <li key={`menu-${item.ID}`} className="p-4 text-sm rounded-lg bg-secondary">
-                <h4 className="font-medium">{item.TITLE}</h4>
-                <h5 className="hidden lg:block text-xs opacity-70">{item.TITLE_ENG}</h5>
-
-                <ul className="mt-4">
-                  {Object.entries(nutrition as Record<string, string>).map(([key, value]) => {
-                    return (
-                      <li key={key} className="flex justify-between gap-4">
-                        <div>{key}:</div>
-                        <div className="text-lg font-medium opacity-80">{value}</div>
-                      </li>
-                    );
-                  })}
-                  <li className="flex justify-between gap-4">
-                    <div>용량:</div>
-                    <div className="text-lg font-medium opacity-80">{item.VOLUME}</div>
-                  </li>
-                </ul>
-              </li>
-            );
-          })}
-        </ul>
-      </section>
-
-      <PagingSection curPage={curPage} totalPages={totalPage} id={id} category={category} sub={sub} q={q} />
+      <ul className="mt-16 grid grid-cols-2 lg:grid-cols-4 gap-4">
+        {menus.map((menu, idx) => (
+          <MenuList key={`menu-${idx}`} menu={menu} />
+        ))}
+      </ul>
     </main>
   );
 }
