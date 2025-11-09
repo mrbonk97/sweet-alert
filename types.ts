@@ -1,14 +1,21 @@
 export type MenuType = {
-  ID: number;
-  CAFE_ID: string;
-  CATEGORY: string;
-  SUB: string;
-  TITLE: string;
-  TITLE_ENG: string;
-  DESCRIPTION: string;
-  NUTRITION: string;
-  ALLERGY: string;
-  VOLUME: string;
-  CREATED_AT: Date;
-  UPDATED_AT: Date;
+  cafeId: string;
+  category: string;
+  sub: string;
+  title: string | null;
+  titleEng: string | null;
+  description: string | null;
+  allergy: string | null;
+  volume: string | null;
+  nutrition: NutritionType;
+};
+
+export type NutritionType = {
+  saturatedFat: string | null;
+  sugar: string | null;
+  sodium: string | null;
+  protein: string | null;
+  caffeine: string | null;
+  calories: string | null;
+  carbs: string | null;
 };

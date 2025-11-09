@@ -1,15 +1,15 @@
 export const CAFES = [
   {
     id: "ediya",
-    title: "이디야 커피",
-    titleEng: "EDIYA COFFEE",
+    idx: 1,
+    title: "이디야",
+    titleEng: "Ediya Coffee",
     category: [
       {
         id: "beverage",
         code: "7",
         name: "음료",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "coffee", name: "COFFEE", code: "12" },
           { id: "beverage", name: "BEVERAGE", code: "13" },
           { id: "tea", name: "BLENDING TEA", code: "14" },
@@ -27,7 +27,6 @@ export const CAFES = [
         code: "8",
         name: "푸드",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "bread", name: "BREAD", code: "17" },
           { id: "dessert", name: "DESSERT", code: "18" },
           { id: "deli", name: "DELI", code: "19" },
@@ -38,15 +37,15 @@ export const CAFES = [
   },
   {
     id: "mega-coffee",
-    title: "메가MGC커피",
-    titleEng: "MEGA MGC COFFEE",
+    idx: 2,
+    title: "메가커피",
+    titleEng: "Mega Coffee",
     category: [
       {
         id: "beverage",
         code: "1",
         name: "음료",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "coffee", name: "커피", code: "1" },
           { id: "tea", name: "티", code: "2" },
           { id: "ade", name: "에이드&주스", code: "3" },
@@ -61,7 +60,6 @@ export const CAFES = [
         code: "2",
         name: "푸드",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "dessert", name: "디저트", code: "7" },
           { id: "new", name: "신상품", code: "10" },
         ],
@@ -70,6 +68,7 @@ export const CAFES = [
   },
   {
     id: "compose-coffee",
+    idx: 3,
     title: "컴포즈커피",
     titleEng: "Compose Coffee",
     category: [
@@ -78,7 +77,6 @@ export const CAFES = [
         code: null,
         name: "메뉴",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "combo", name: "컴포즈콤보", code: "207002" },
           { id: "season", name: "시즌한전", code: "192677" },
           { id: "coffee", name: "커피·더치", code: "185" },
@@ -86,7 +84,7 @@ export const CAFES = [
           { id: "smoothie", name: "프라페·스무디", code: "192" },
           { id: "shake", name: "밀크쉐이크", code: "193" },
           { id: "ade", name: "에이드·주스", code: "188" },
-          { id: "ade", name: "티", code: "191" },
+          { id: "tea", name: "티", code: "191" },
           { id: "dessert", name: "디저트", code: "339" },
         ],
       },
@@ -94,15 +92,15 @@ export const CAFES = [
   },
   {
     id: "paiks-coffee",
+    idx: 4,
     title: "빽다방",
-    titleEng: "Paiks Coffee",
+    titleEng: "Paiks Dabang",
     category: [
       {
         id: "menu",
         code: null,
         name: "메뉴",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "new", name: "신메뉴", code: "menu_new" },
           { id: "coffee", name: "커피", code: "menu_coffee" },
           { id: "beverage", name: "음료", code: "menu_drink" },
@@ -114,6 +112,7 @@ export const CAFES = [
   },
   {
     id: "starbucks",
+    idx: 5,
     title: "스타벅스",
     titleEng: "Starbucks",
     category: [
@@ -122,7 +121,6 @@ export const CAFES = [
         code: null,
         name: "음료",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "cold-brew", name: "콜드 브루 커피", code: "W0000171.js" },
           { id: "brewed", name: "브루드 커피", code: "W0000060.js" },
           { id: "espresso", name: "에스프레소", code: "W0000003.js" },
@@ -140,7 +138,6 @@ export const CAFES = [
         code: null,
         name: "푸드",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "bread", name: "브레드", code: "W0000013.js" },
           { id: "cake", name: "케이크", code: "W0000032.js" },
           { id: "sandwich", name: "샌드위치 & 샐러드", code: "W0000033.js" },
@@ -154,6 +151,7 @@ export const CAFES = [
   },
   {
     id: "the-venti",
+    idx: 6,
     title: "더 벤티",
     titleEng: "The Venti",
     category: [
@@ -162,7 +160,6 @@ export const CAFES = [
         code: null,
         name: "메뉴",
         sub: [
-          { id: "all", name: "전체", code: null },
           { id: "new", name: "신메뉴", code: "1" },
           { id: "coffee", name: "커피", code: "2" },
           { id: "decaf", name: "디카페인", code: "3" },
@@ -172,6 +169,162 @@ export const CAFES = [
           { id: "beverage", name: "베버리지", code: "7" },
           { id: "rtd", name: "사이드메뉴/RTD", code: "8" },
           { id: "pet", name: "반려동물", code: "9" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "pascucci",
+    idx: 7,
+    title: "파스쿠찌",
+    titleEng: "pascucci",
+    category: [
+      {
+        id: "coffee",
+        code: null,
+        name: "커피",
+        sub: [
+          { id: "italian", name: "이탈리안커피", code: "00100010" },
+          { id: "cold", name: "커피(HOT)", code: "00100020" },
+          { id: "hot", name: "커피(COLD)", code: "00100030" },
+          { id: "cold-brew", name: "콜드브루", code: "00100040" },
+        ],
+      },
+      {
+        id: "beverage",
+        code: null,
+        name: "음료",
+        sub: [
+          { id: "seaseon", name: "시즌음료", code: "00200010" },
+          { id: "00", name: "그라니따", code: "00200020" },
+          { id: "tea", name: "티", code: "00200030" },
+          { id: "etc", name: "기타음료", code: "00200050" },
+        ],
+      },
+      {
+        id: "cake",
+        code: null,
+        name: "케이크",
+        sub: [
+          { id: "piece", name: "조각케이크", code: "00210010" },
+          { id: "whole", name: "홀케이크", code: "00210020" },
+        ],
+      },
+      {
+        id: "food",
+        code: null,
+        name: "푸드",
+        sub: [
+          { id: "gelatto", name: "젤라또", code: "00300010" },
+          { id: "deli", name: "델리", code: "00300020" },
+          { id: "bread", name: "브레드", code: "00300030" },
+          { id: "dessert", name: "디저트", code: "00300040" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "mammoth",
+    idx: 8,
+    title: "매머드커피",
+    titleEng: "mammoth",
+    category: [
+      {
+        id: "mammoth",
+        code: "list_coffee_sub.php",
+        name: "매머드커피",
+        sub: [
+          { id: "32oz", name: "32oz", code: "O" },
+          { id: "coffee", name: "커피", code: "C" },
+          { id: "cold-brew", name: "콜드브루", code: "D" },
+          { id: "non-coffee", name: "논커피", code: "N" },
+          { id: "tea", name: "티 에이드", code: "T" },
+          { id: "blended", name: "프라페 블렌디드", code: "B" },
+          { id: "food", name: "푸드", code: "F" },
+          { id: "rtd", name: "RTD", code: "R" },
+        ],
+      },
+      {
+        id: "express",
+        code: "list_sub.php",
+        name: "매머드 익스프레스",
+        sub: [
+          { id: "seaseon", name: "시즌음료", code: "00200010" },
+          { id: "00", name: "그라니따", code: "00200020" },
+          { id: "tea", name: "티", code: "00200030" },
+          { id: "etc", name: "기타음료", code: "00200050" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "twosome",
+    idx: 9,
+    title: "투썸플레이스",
+    titleEng: "twosome",
+    category: [
+      {
+        id: "beverage",
+        code: "1",
+        name: "커피/음료",
+        sub: [
+          { id: "new", name: "NEW", code: "NEW" },
+          { id: "coffee", name: "커피", code: "01" },
+          { id: "beverage", name: "음료", code: "02" },
+          { id: "tea", name: "티/티라떼", code: "03" },
+          { id: "ice-creawm", name: "아이스크림/빙수", code: "04" },
+        ],
+      },
+      {
+        id: "cake",
+        code: "4",
+        name: "홀케이크",
+        sub: [
+          { id: "new", name: "NEW", code: "NEW" },
+          { id: "whole-cake", name: "홀케이크", code: "07" },
+        ],
+      },
+      {
+        id: "dessert",
+        code: "2",
+        name: "디저트",
+        sub: [
+          { id: "new", name: "NEW", code: "NEW" },
+          { id: "piece-cake", name: "피스케이크", code: "05" },
+          { id: "macaroon", name: "마카롱", code: "06" },
+        ],
+      },
+      {
+        id: "food",
+        code: "3",
+        name: "푸드",
+        sub: [
+          { id: "new", name: "NEW", code: "09" },
+          { id: "sandwich", name: "샌드위치", code: "10" },
+          { id: "salad", name: "샐러드/기타", code: "12" },
+          { id: "bakery", name: "베이커리", code: "08" },
+          { id: "snack", name: "스낵", code: "08" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "hollys",
+    idx: 10,
+    title: "할리스",
+    titleEng: "hollys",
+    category: [
+      {
+        id: "menu",
+        code: null,
+        name: "메뉴",
+        sub: [
+          { id: "coffee", name: "COFFEE", code: "" },
+          { id: "latte", name: "라떼·초콜릿·티", code: "SIGNATURE" },
+          { id: "hollyccino", name: "할리치노·빙수", code: "HOLLYCCINO" },
+          { id: "smoothie", name: "스무디·주스", code: "JUICE" },
+          { id: "sparkling", name: "스파클링", code: "TEA" },
+          { id: "food", name: "푸드", code: "BAKERY" },
         ],
       },
     ],

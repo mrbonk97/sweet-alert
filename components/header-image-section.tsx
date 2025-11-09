@@ -7,7 +7,7 @@ export function HeaderImageSection() {
   const [id, setId] = useState(1);
 
   useEffect(() => {
-    setInterval(() => setId((cur) => ((cur + 1) % 5) + 1), 1500);
+    setInterval(() => setId((cur) => ((cur + 1) % 5) + 1), 2500);
   }, []);
 
   return (
